@@ -1,0 +1,67 @@
+bq_standard.task.retrieval=Задача: поиск
+bq_standard.task.crafting=Задача: крафт
+bq_standard.task.hunt=Задача: охота на моба(ов)
+bq_standard.task.scoreboard=Задача: таблица
+bq_standard.task.location=Задача: добраться до координаты
+bq_standard.task.fluid=Задача: жидкость
+bq_standard.task.meeting=Задача: встретиться
+bq_standard.task.xp=Задача: получить опыт
+bq_standard.task.block_break=Задача: сломать блок
+bq_standard.task.checkbox=Задача: нажать на крестик
+
+bq_standard.retrieval=Поиск
+bq_standard.crafting=Крафт
+bq_standard.hunt=Охота на моба(ов)
+bq_standard.scoreboard=Таблица
+bq_standard.location=Добраться до координаты
+bq_standard.fluid=Жидкость
+bq_standard.meeting=Встретиться
+bq_standard.xp=Опыт
+bq_standard.block_break=Сломать блок
+bq_standard.checkbox=Нажать на крестик
+bq_standard.command=Команда
+bq_standard.choice=Выбор
+bq_standard.item=Вещь
+
+bq_standard.reward.choice=Выбор награды
+bq_standard.reward.item=Награда: вещь
+bq_standard.reward.scoreboard=Награда: таблица
+bq_standard.reward.command=Награда: команда
+bq_standard.reward.xp=Награда: опыт
+
+bq_standard.title.edit_hunt=Изменить задачу: охота
+bq_standard.title.edit_meeting=Изменить задачу: встреча
+bq_standard.title.edit_loot_groups=Изменить дроп: группы
+bq_standard.title.edit_loot_entries=Изменить дроп: записи
+bq_standard.title.edit_retrieval=Изменить поиск
+bq_standard.ttile.edit_crafting=Изменить крафт
+
+bq_standard.btn.select_mob=Выбрать моба
+bq_standard.btn.add_remove_drops=Добавить/удалить дроп
+bq_standard.btn.edit_items=Добавить/удалить предметы
+bq_standard.btn.consume=Consume: %s
+
+bq_standard.gui.amount=Колличество
+bq_standard.gui.kill=Убить %s
+bq_standard.gui.location=Координата: %s
+bq_standard.gui.distance=Дистанция: %s
+bq_standard.gui.dimension=Размер: %s
+bq_standard.gui.found=Найдено!
+bq_standard.gui.undiscovered=Нераскрытый
+bq_standard.gui.condition=Состояние: %s
+bq_standard.gui.meet=Встретить %s
+bq_standard.gui.weight=Значение
+bq_standard.gui.experience=Опыт
+
+bq_standard.importer.hqm_bag.name=HQM симпортер кейсов
+bq_standard.importer.hqm_bag.desc=Импортирует кейсы HQM, экспортированные в формате json.
+bq_standard.importer.hqm_quest.name=HQM квест имортер
+bq_standard.importer.hqm_quest.desc=Импортирует квестовые строки HQM, экспортированные в формате json. Из-за странной природы индексируемых квестов HQM после экспорта могут возникать ошибки между квестами с повторяющимися именами или условными разблокировками.
+bq_standard.importer.nat_file.name=Собственный импортер файлов
+bq_standard.importer.nat_file.desc=Импортирует собственные файлы базы данных квестов и добавляет их в существующие.
+bq_standard.importer.nat_url.name=Импортировать URL
+bq_standard.importer.nat_url.desc=Импортировать базы квестов из Интернета и добавляет их в существующие.
+
+item.bq_standard.loot_chest.name=Кейс
+
+bq_standard.tooltip.loot_chest=Нажмите ПКМ для открытия
