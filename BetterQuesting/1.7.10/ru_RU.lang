@@ -1,0 +1,198 @@
+betterquesting.title.quest_lines=Линейка заданий
+betterquesting.title.edit_line1=Редактировать линейку заданий
+betterquesting.title.edit_line2=Редактировать линейку заданий  - %s
+betterquesting.title.edit_quest=Редактировать задание
+betterquesting.title.edit_tasks=Редактировать задачи
+betterquesting.title.edit_rewards=Редактировать награды
+betterquesting.title.edit_text=Редактировать текст
+betterquesting.title.pre_requisites=Редактировать предварительные реквизиты
+betterquesting.title.json_object=Объект
+betterquesting.title.json_array=Список
+betterquesting.title.json_add=Новый тип
+betterquesting.title.select_item=Выберите предмет
+betterquesting.title.select_fluid=Выберите жидкость
+betterquesting.title.select_entity=Выберите существо
+betterquesting.title.party_none=Группа
+betterquesting.title.party=Редактировать группу - %s
+betterquesting.title.party_invite=Пригласить пользователей
+betterquesting.title.select_theme=Выберите тему
+betterquesting.title.importers=Импорт
+betterquesting.title.submit_station=Отправить станцию
+
+betterquesting.btn.rewards=Награды
+betterquesting.btn.tasks=Задания
+betterquesting.btn.advanced=Продвинутые
+betterquesting.btn.is_main=Главная
+betterquesting.btn.requirements=Требования
+betterquesting.btn.edit=Редактировать
+betterquesting.btn.new=Добавить новое
+betterquesting.btn.import=Импортировать
+betterquesting.btn.logic=Логика
+betterquesting.btn.show=Показать
+betterquesting.btn.claim=Получить
+betterquesting.btn.detect_submit=Выполнить
+betterquesting.btn.add_remove_quests=Добавить/Удалить задание
+betterquesting.btn.designer=Дизайн
+betterquesting.btn.item=Предмет
+betterquesting.btn.list=Список
+betterquesting.btn.fluid=Жидкость
+betterquesting.btn.entity=Существо
+betterquesting.btn.text=Текст
+betterquesting.btn.number=Номер
+betterquesting.btn.object=Объект
+betterquesting.btn.raw_nbt=NBT
+betterquesting.btn.party_new=Создать группу
+betterquesting.btn.party_leave=Покинуть
+betterquesting.btn.party_invite=Пригласить
+betterquesting.btn.party_kick=Выгнать
+betterquesting.btn.party_join=Присоединиться
+betterquesting.btn.party_share_lives=Поделиться жизнями
+betterquesting.btn.party_share_loot=Награда на одного
+
+betterquesting.home.exit=Выход
+betterquesting.home.quests=Задания
+betterquesting.home.party=Группы
+betterquesting.home.theme=Темы
+
+betterquesting.gui.name=Имя
+betterquesting.gui.description=Описание
+betterquesting.gui.quest_line=Линейка заданий
+betterquesting.gui.database=База данных
+betterquesting.gui.selection=Выбор
+betterquesting.gui.search=Поиск
+betterquesting.gui.folder=Директория
+betterquesting.gui.party_invites=Приглашения
+betterquesting.gui.party_members=Участники
+betterquesting.gui.remaining_lives=Жизней осталось:: %s
+betterquesting.gui.full_lives=Полная жизнь
+betterquesting.gui.closing_warning=Вы действительно хотите закрыть этот редактор?
+betterquesting.gui.closing_confirm=Изменения могут быть потеряны!
+betterquesting.gui.key=Имя ключа
+betterquesting.gui.no_key=Нет ключа
+betterquesting.gui.duplicate_key=Повторяющийся ключ
+
+betterquesting.tooltip.tasks_complete=%s/%s Задание завершено
+betterquesting.tooltip.complete=ВЫПОЛНЕНО
+betterquesting.tooltip.incomplete=НЕ ВЫПОЛНЕНО
+betterquesting.tooltip.rewards_pending=Невостребованные награды
+betterquesting.tooltip.requires=Требует:
+betterquesting.tooltip.shift_advanced=Удерживайте SHIFT для получения дополнительной информации.
+betterquesting.tooltip.reset_time=Задержка: %s
+betterquesting.tooltip.main_quest=Главное задание: %s
+betterquesting.tooltip.global_quest=Глобальное задание: %s
+betterquesting.tooltip.global_share=Глобальная доля: %s
+betterquesting.tooltip.task_logic=Целевая логика: %s
+betterquesting.tooltip.simultaneous=Одновременные задачи: %s
+betterquesting.tooltip.auto_claim=Авто-выполнение: %s
+betterquesting.tooltip.repeat=Задержка: %s
+
+betterquesting.notice.complete=Задание завершено
+betterquesting.notice.update=Задание обновлено
+betterquesting.notice.unlock=Задание разблокировано
+
+betterquesting.msg.heart_disabled=§4Обменивайте §6сердца§4 на различные вещи на§6 /warp shop§4
+
+key.betterquesting.quests=Открыть задания
+key.betterquesting.party=Редактор группы
+key.betterquesting.themes=Измененить тему
+
+itemGroup.betterquesting=Better Questing
+
+fluid.betterquesting.placeholder=Заполнитель
+
+item.betterquesting.placeholder.name=Заполнитель
+item.betterquesting.extra_life.full.name=Сердце
+item.betterquesting.extra_life.half.name=Половина сердца
+item.betterquesting.extra_life.quarter.name=Четверть сердца
+item.betterquesting.guide.name=Better Questing: Мануал новичка
+
+tile.betterquesting.submit_station.name=Станция подтверждения
+
+betterquesting.btn.help1=Навигация
+betterquesting.btn.help2=Станция подтверждения
+betterquesting.btn.help3=Создание квестов
+betterquesting.btn.help4=Команды
+betterquesting.btn.help5=Импорт
+betterquesting.btn.help6=Темы
+betterquesting.btn.help7=Локализация
+betterquesting.btn.help8=Ресурсы
+
+betterquesting.help.page1=§l§nОбщая навигация%n§r%nBetter Основные графические интерфейсы квестинга не основаны на элементе или блоке, которые можно легко потерять, а вместо этого с помощью одной привязки клавиш, которую можно найти и изменить через меню элементов управления.%n%nВ На экране Quest Lines вы можете выбрать любую из ваших активных линий в списке и перетащить по полю, чтобы перейти к выбранному вами квесту, чтобы начать выполнение заданий.%n%nВопросные партии можно создавать или редактировать на экранах управления вечеринками. Здесь вы также можете переключать опции для совместного использования хардкорных жизней или наград за квесты.%n%nЕсли вы хотите изменить внешний вид ваших пользовательских интерфейсов квестов, вы можете выбрать одну из установленных в данный момент тем на экране выбора тем.
+betterquesting.help.page2=§l§nСтанция подачи%n§r%nХотя многие квестовые задания можно отправлять напрямую через инвентарь (включая жидкости), иногда вам нужно более автоматизированное решение. Здесь вам пригодится Станция подачи объектов (СПО). Задачи, поддерживающие СПО, могут быть выбраны через встроенный интерфейс, чтобы обеспечить его использование. После настройки жидкости и элементы можно либо ввести по трубопроводу, либо выбросить во входной слот интерфейса, однако это не приведет к удалению элементов или жидкостей, если не выбрано ни одной задачи или если оно уже выполнено, что делает его относительно безопасным от случайного удаления элемента/жидкости. Несколько СПО также способны выполнять отдельные подзадачи в рамках одного и того же квеста одновременно!
+betterquesting.help.page3=§l§nСоздание квествов %n§r%nДля того, чтобы начать создавать квесты и строки квестов, вам сначала нужно включить режим редактирования, выполнив команду редактирования (см. Команды для получения дополнительной информации). После этого вы сможете добавлять или удалять строки квестов, однако вам не требуется одна, чтобы начать делать квесты. Это особенно удобно, если вы хотите создавать секретные квесты, которые разблокируют другие квесты или линии квестов.% N% nВы можете ознакомиться с несколькими меню во время редактирования. Сначала они будут немного подавляющими по сравнению с большинством других модов, но со временем это станет легче. Некоторые расширенные экраны редактирования будут редактировать необработанные данные о квестах, поэтому вы должны быть очень осторожны с изменениями, поскольку это может иметь неблагоприятные побочные эффекты, однако это никогда не должно приводить к повреждению или падению. Если что-то происходит, вы должны немедленно сообщить об этом разработчику.
+betterquesting.help.page4=§l§nКоманды %n§r%nЕсть только несколько команд, которые вам необходимо знать при работе с Better Questing. Они разделены на пользовательские команды, которые может выполнять любой пользователь, и административные команды, которые разрешены только для операторов сервера.%n%n§o/bq_user refresh%n§r% nРучно синхронизирует локальную базу данных запросов с сервером в случае возможных проблем с рассинхронизацией. %n%n§o /bq_user help%n§r%nПоставляет игроку копию этого руководства%n%n§o /bq_admin edit%n§r%nВключает и отключает режим редактирования квестов. При включении операторы смогут получить доступ к меню редактирования квестов и квестовых линий. Не забудьте отключить это перед публикацией пакетов или квестов.% N% n§o / bq_admin hardcore% n§r% n Включает и отключает использование хардкорных жизней. Когда все жизни истощатся, игроки будут забанены с сервера или их мир будет удален в соответствии со стандартным ванильным хардкором.% N% n§o / bq_admin reset [all | <quest_id>] [username | uuid]% n§r % nСнимает данные о завершении квеста для данного пользователя. Удобно использовать перед публикацией пакетов.% N% n§o / bq_admin default [сохранить | загрузить]% n§r% nСохраняет / загружает текущую базу данных квестов в / из глобального каталога по умолчанию. Установка значений по умолчанию означает, что любые вновь созданные миры начнутся с этого конкретного набора квестов. Сохранение также сохранит данные о завершении, жестком состоянии и режиме редактирования, поэтому перед запуском этой команды обязательно используйте другие команды.%n%n§o /bq_admin complete <quest_id> [username|uuid]%n§r%nForce завершает квест для данного пользователя%n%n§o /bq_admin delete [all|<quest_id>]%n§r%nУбирает данные заданий и квестов, но не удаляет новые значения по умолчанию в мире.%n%n§o /bq_admin жизней [добавить|установить|макс|по умолчанию] <значение> [имя пользователя]%n§r%nЭти команды изменяют количество жизней, которые имеют игроки, или начальные и максимальные значения.
+betterquesting.help.page5=§l§nИмпорт%n§r%nНекоторые пакеты расширения могут включать импортеров для других модов квестов или позволять создателям пакетов загружать онлайн-строки квестов. Чтобы получить доступ к этим импортерам, вы можете нажать кнопку «Импорт» в главном редакторе квестовых линий. По умолчанию у Better Questing нет никаких импортеров, поэтому, если вам нужен конкретный импортер, вам нужно либо найти расширение с одним, либо сделать его самостоятельно.
+betterquesting.help.page6=§l§nТема%n§r%nЕсли вы предпочитаете определенный цветной палитру в своих интерфейсах или просто производитель пакетов, желающий придать ему более аутентичный внешний вид, чем темы, - ваш лучший друг. Темы могут изменить внешний вид квестовых интерфейсов в соответствии с вашими потребностями, будь то футуристический, волшебный или просто классический Minecraft. Они могут быть установлены либо через пакеты ресурсов, каталог ресурсов или через пакеты расширений.
+betterquesting.help.page7=§l§nЛокализация%n§r%nBetter Questing поддерживает полную локализацию названий и описаний квестов, так что если вы захотите выпустить свой пакет для пользователей всех национальностей, то теперь вы можете это сделать! Чтобы начать локализацию своих квестов, вам нужно использовать уникальные ключи, такие как «§omypack.quest1.name§r» вместо простого текста. Затем вы можете создать пакет ресурсов, содержащий только файлы .lang для всех языковых переводов. Эти файлы могут также храниться в каталоге ресурсов Better Questing для лучшего объединения в пакеты
+betterquesting.help.page8=§l§nРесурсы%n§r%nЕсли вы хотите настроить домашний экран, связать темы или добавить файлы локализации, то вы можете сделать это через:%n%n "§o/config/betterquesting/resources/<имя_пакета>/§r"%n%nНет каких-либо папок здесь можно рассматривать как не перечисленные пакеты ресурсов, содержащие все необходимое для персонализации вашего пакета.
+
+betterquesting.design.tree=Внешний вид
+
+betterquesting.toolbox.tab.main=Главная
+
+betterquesting.toolbox.tool.open.name=Открыть
+betterquesting.toolbox.tool.open.desc=Открывает задание для дальнейшего редактирования
+betterquesting.toolbox.tool.grab.name=Грейфер
+betterquesting.toolbox.tool.grab.desc=Вы можете изменить место положение задания
+betterquesting.toolbox.tool.link.name=Связыватель
+betterquesting.toolbox.tool.link.desc=Устанавливает задание как предпосылку для других. Если ссылка уже присутствует, она удаляется
+betterquesting.toolbox.tool.snap.name=Сетка сетки
+betterquesting.toolbox.tool.snap.desc=Изменяет разрешение привязки сетки для других инструментов
+betterquesting.toolbox.tool.copy.name=Копировщик
+betterquesting.toolbox.tool.copy.desc=Копирует данное задание, включая предпосылки, задачи и награды, но не данные прогрессии
+betterquesting.toolbox.tool.new.name=Новый квест
+betterquesting.toolbox.tool.new.desc=Creates a new empty quest
+betterquesting.toolbox.tool.delete.name=Удалить квест
+betterquesting.toolbox.tool.delete.desc=Удаляет данный квест из строки квеста и базы данных
+betterquesting.toolbox.tool.remove.name=Удалить квест
+betterquesting.toolbox.tool.remove.desc=Удаляет данный квест только из строки квеста. Квест все равно будет доступен через базу данных
+betterquesting.toolbox.tool.complete.name=Manual Complete
+betterquesting.toolbox.tool.complete.desc=Forcibly completes the selected quest
+betterquesting.toolbox.tool.reset.name=Сбросить квест
+betterquesting.toolbox.tool.reset.desc=Сбрасывает статус завершения и весь ход выполнения задачи
+betterquesting.toolbox.tool.icon.name=Выбрать иконку
+betterquesting.toolbox.tool.icon.desc=Изменить значок квеста
+betterquesting.toolbox.tool.scale.name=Масштаб иконки
+betterquesting.toolbox.tool.scale.desc=Масштабировать иконки квестов вверх или вниз
+betterquesting.toolbox.tool.raw.name=Редактировать Raw
+betterquesting.toolbox.tool.raw.desc=Открывает необработанную строку квеста JSON для редактирования. Включает дополнительные скрытые настройки, такие как изменение фона
+
+betterquesting.cmd.complete=Completed quest %s for %s
+betterquesting.cmd.default.save=Quest database saved as default
+betterquesting.cmd.default.save2=Quest database saved to %s
+betterquesting.cmd.default.load=Reloaded default quest database
+betterquesting.cmd.default.load2=Loaded quest database from %s
+betterquesting.cmd.default.set=Set %s as the default quest database
+betterquesting.cmd.default.none=Quest database not found
+betterquesting.cmd.delete.single=Удалить квест %s
+betterquesting.cmd.delete.all=Удалить все квесты
+betterquesting.cmd.edit=Режим редактирования %s
+betterquesting.cmd.hardcore=Хардкордный режим %s
+
+betterquesting.cmd.lives.add_player=Добавлено %s жизней %s (Total: %s)
+betterquesting.cmd.lives.add_all=Добавлено %s жизней всем игрокам
+betterquesting.cmd.lives.remove_player=Убрано %s жизней у %s (Total: %s)
+betterquesting.cmd.lives.remove_all=Убрано %s жизней у всех игроков
+betterquesting.cmd.lives.set_player=Set %s's lives to %s
+betterquesting.cmd.lives.set_all=Set all player's lives to %s
+betterquesting.cmd.lives.max=Set max lives to %s
+betterquesting.cmd.lives.default=Set default lives to %s
+
+betterquesting.cmd.reset.player_single=Reset quest '%s' for %s
+betterquesting.cmd.reset.player_all=Reset all quests for %s
+betterquesting.cmd.reset.all_single=Reset quest '%s' for everyone
+betterquesting.cmd.reset.all_all=Reset all quests for everyone
+betterquesting.cmd.refresh=Refreshing local database...
+
+json.betterquesting.quest.name=Данные задания
+jdoc.betterquesting.quest.rewards.name=Награды
+jdoc.betterquesting.quest.rewards.desc=Список настраиваемых типов вознаграждений
+jdoc.betterquesting.quest.tasks.name=Задания
+jdoc.betterquesting.quest.tasks.desc=Список настраиваемых типов задач
+jdoc.betterquesting.quest.preRequisites.name=Предпосылки
+jdoc.betterquesting.quest.preRequisites.desc=Список исходных идентификаторов задания, используемых для разблокировки этого задания
+jdoc.betterquesting.quest.properties.name=Свойства
+jdoc.betterquesting.quest.properties.desc=Свойства, определяющие внешний вид и функциональность задания
+
+jdoc.betterquesting.quest.properties.betterquesting.name=BetterQuesting
+jdoc.betterquesting.quest.properties.betterquesting.desc=BetterQuesting properties

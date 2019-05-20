@@ -1,6 +1,0 @@
-ThaumikTinkerer
-Thaumcraft
-Botania
-Chisel
-CustomNPCs
-IronChest
