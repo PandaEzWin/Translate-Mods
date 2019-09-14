@@ -1,0 +1,875 @@
+item.itemCheese.name=Cheese
+item.itemgrilledCheese.name=Grilled Cheese
+item.CheeseStew.name=Cheese Stew
+item.Cheese.name=Cheese
+
+item.vanilla_wand.name=Vanilla Wand
+item.mortar.name=Mortar
+item.flux.name=Flux
+item.prismarineshard.name=Prismarine Shard
+item.prismarinecrystals.name=Prismarine Crystals
+
+item.stonehammer.name=Stone Hammer
+item.goldhammer.name=Golden Hammer
+item.copperhammer.name=Copper Hammer
+item.ironhammer.name=Iron Hammer
+item.diamondhammer.name=Diamond Hammer
+
+item.feliron_boots.name=Fel Iron Boots
+item.feliron_helmet.name=Fel Iron Helmet
+item.feliron_leggings.name=Fel Iron Leggings
+item.feliron_chestplate.name=Fel Iron Chestplate
+
+item.feliron_nugget.name=Fel Iron Nugget
+item.feliron_ingot.name=Fel Iron Ingot
+
+item.feliron_sword.name=Fel Iron Sword
+
+item.ironsaw.name=Iron Saw
+item.goldsaw.name=Golden Saw
+item.diamondsaw.name=Diamond Saw
+item.felironsaw.name=Fel Iron Saw
+item.felironhammer.name=Fel Iron Hammer
+item.feliron_hoe.name=Fel Iron Hoe
+item.feliron_shovel.name=Fel Iron Shovel
+item.feliron_axe.name=Fel Iron Axe
+item.feliron_pickaxe=Fel Iron Pickaxe
+item.feliron_scythe=Fel Iron Scythe
+
+
+item.coloredclayball_0.name=White Stained Глина
+item.coloredclayball_1.name=Orange Stained Глина
+item.coloredclayball_2.name=Magenta Stained Глина
+item.coloredclayball_3.name=Light Blue Stained Глина
+item.coloredclayball_4.name=Yellow Stained Глина
+item.coloredclayball_5.name=Lime Stained Глина
+item.coloredclayball_6.name=Pink Stained Глина
+item.coloredclayball_7.name=Gray Stained Глина
+item.coloredclayball_8.name=Light Gray Stained Глина
+item.coloredclayball_9.name=Cyan Stained Глина
+item.coloredclayball_10.name=Purple Stained Глина
+item.coloredclayball_11.name=Blue Stained Глина
+item.coloredclayball_12.name=Brown Stained Глина
+item.coloredclayball_13.name=Зелёная Stained Глина
+item.coloredclayball_14.name=Красная Stained Глина
+item.coloredclayball_15.name=Чёрная Stained Глина
+
+item.coloredbricksitem_0.name=White Stained Single Brick
+item.coloredbricksitem_1.name=Orange Stained Single Brick
+item.coloredbricksitem_2.name=Magenta Stained Single Brick
+item.coloredbricksitem_3.name=Light Blue Stained Single Brick
+item.coloredbricksitem_4.name=Yellow Stained Single Brick
+item.coloredbricksitem_5.name=Lime Stained Single Brick
+item.coloredbricksitem_6.name=Pink Stained Single Brick
+item.coloredbricksitem_7.name=Gray Stained Single Brick
+item.coloredbricksitem_8.name=Light Gray Stained Single Brick
+item.coloredbricksitem_9.name=Cyan Stained Single Brick
+item.coloredbricksitem_10.name=Purple Stained Single Brick
+item.coloredbricksitem_11.name=Blue Stained Single Brick
+item.coloredbricksitem_12.name=Brown Stained Single Brick
+item.coloredbricksitem_13.name=Зелёная Stained Single Brick
+item.coloredbricksitem_14.name=Красная Stained Single Brick
+item.coloredbricksitem_15.name=Чёрная Stained Single Brick
+
+tile.raw_colored_clay_0.name=White Stained Soft Глина
+tile.raw_colored_clay_1.name=Orange Stained Soft Глина
+tile.raw_colored_clay_2.name=Magenta Stained Soft Глина
+tile.raw_colored_clay_3.name=Light Blue Stained Soft Глина
+tile.raw_colored_clay_4.name=Yellow Stained Soft Глина
+tile.raw_colored_clay_5.name=Lime Stained Soft Глина
+tile.raw_colored_clay_6.name=Pink Stained Soft Глина
+tile.raw_colored_clay_7.name=Gray Stained Soft Глина
+tile.raw_colored_clay_8.name=Light Gray Stained Soft Глина
+tile.raw_colored_clay_9.name=Cyan Stained Soft Глина
+tile.raw_colored_clay_10.name=Purple Stained Soft Глина
+tile.raw_colored_clay_11.name=Blue Stained Soft Глина
+tile.raw_colored_clay_12.name=Brown Stained Soft Глина
+tile.raw_colored_clay_13.name=Зелёная Stained Soft Глина
+tile.raw_colored_clay_14.name=Красная Stained Soft Глина
+tile.raw_colored_clay_15.name=Чёрная Stained Soft Глина
+
+
+item.CheesePickaxe.name=Cheese Pickaxe
+item.CheeseAxe.name=Cheese Axe
+item.CheeseShovel.name=Cheese Shovel
+item.CheeseHoe.name=Cheese Hoe
+item.CheeseSword.name=Cheese Sword
+item.CheeseHelmet.name=Cheese Helmet
+item.CheeseChestplate.name=Cheese Chestplate
+item.CheeseLeggings.name=Cheese Leggings
+item.CheeseBoots.name=Cheese Boots
+
+item.wood_plank_0.name=Oak Wood Single Plank
+item.wood_plank_1.name=Spruce Wood Single Plank
+item.wood_plank_2.name=Birch Wood Single Plank
+item.wood_plank_3.name=Jungle Wood Single Plank
+item.wood_plank_4.name=Acacia Wood Single Plank
+item.wood_plank_5.name=Dark Oak Wood Single Plank
+
+item.bop_wood_plank_0.name=Sacred Oak Wood Single Plank
+item.bop_wood_plank_1.name=Cherry Wood Single Plank
+item.bop_wood_plank_2.name=Dark Wood Single Plank
+item.bop_wood_plank_3.name=Fir Wood Single Plank
+item.bop_wood_plank_4.name=Ethereal Wood Single Plank
+item.bop_wood_plank_5.name=Magic Wood Single Plank
+item.bop_wood_plank_6.name=Mangrove Wood Single Plank
+item.bop_wood_plank_7.name=Palm Wood Single Plank
+item.bop_wood_plank_8.name=Redwood Wood Single Plank
+item.bop_wood_plank_9.name=Willow Wood Single Plank
+item.bop_wood_plank_10.name=Bamboo Wood Single Plank
+item.bop_wood_plank_11.name=Pine Wood Single Plank
+item.bop_wood_plank_12.name=Hell Bark Wood Single Plank
+item.bop_wood_plank_13.name=Jacaranda Wood Single Plank
+item.bop_wood_plank_14.name=Mahogany Wood Single Plank
+
+
+itemGroup.extrablocks=Extra Blocks
+itemGroup.extrastairs=Extra Ступеньки
+itemGroup.extraslabs=Extra Slabs
+itemGroup.extrafood=Extra Food
+itemGroup.extraitems=Extra Items
+itemGroup.extratools=Extra Tools
+itemGroup.extrawalls=Extra Walls 
+itemGroup.extraredstone=Extra Redstone
+itemGroup.extradecor=Extra Decoration
+itemGroup.extracombat=Extra Combat
+
+tile.CheeseBlock.name=Cheese Block
+tile.CheeseStair.name=Cheese Stair
+tile.CheeseSlabSingle.name=Cheese Slab
+tile.CheeseSlabDouble.name=Cheese Double Slab
+
+
+
+
+item.testItem.name=Test Item
+tile.bluestoneBlock.name=Bluestone Block
+tile.DiceFace.name=Dice
+
+tile.sealantern.name=Sea Lantern
+
+tile.andesite_0.name=Andesite
+tile.andesite_1.name=Smooth Andesite
+tile.andesite_2.name=Andesite Brick
+tile.andesitestairs.name=Andesite Ступеньки
+tile.smoothandesitestairs.name=Smooth Andesite Ступеньки
+tile.andesitebrickstairs.name=Andesite Brick Ступеньки
+andesiteslab.name=Andesite Slab
+smoothandesiteslab.name=Smooth Andesite Slab
+andesitebrickslab.name=Andesite Brick Slab
+tile.andesitewall.name=Andesite Wall
+tile.smoothandesitewall.name=Smooth Andesite Wall
+tile.andesitebrickwall.name=Andesite Каменная Ограда
+
+tile.diorite_0.name=Diorite
+tile.diorite_1.name=Smooth Diorite
+tile.diorite_2.name=Diorite Brick
+tile.dioritestairs.name=Diorite Ступеньки
+tile.smoothdioritestairs.name=Smooth Diorite Ступеньки
+tile.dioritebrickstairs.name=Diorite Brick Ступеньки
+dioriteslab.name=Diorite Slab
+smoothdioriteslab.name=Smooth Diorite Slab
+dioritebrickslab.name=Diorite Brick Slab
+tile.dioritewall.name=Diorite Wall
+tile.smoothdioritewall.name=Smooth Diorite Wall
+tile.dioritebrickwall.name=Diorite Каменная Ограда
+
+tile.granite_0.name=Granite
+tile.granite_1.name=Smooth Granite
+tile.granite_2.name=Granite Brick
+tile.granitestairs.name=Granite Ступеньки
+tile.smoothgranitestairs.name=Smooth Granite Ступеньки
+tile.granitebrickstairs.name=Granite Brick Ступеньки
+graniteslab.name=Granite Slab
+smoothgraniteslab.name=Smooth Granite Slab
+granitebrickslab.name=Granite Brick Slab
+tile.granitewall.name=Granite Wall
+tile.smoothgranitewall.name=Smooth Granite Wall
+tile.granitebrickwall.name=Granite Каменная Ограда
+
+tile.prismarine_0.name=Prismarine
+tile.prismarine_1.name=Prismarine Brick
+tile.prismarine_2.name=Dark Prismarine
+tile.prismarinestairs.name=Prismarine Ступеньки
+tile.smoothprismarinestairs.name=Prismarine Brick Ступеньки
+tile.darkprismarinestairs.name=Dark Prismarine Ступеньки
+prismarineslab.name=Prismarine Slab
+smoothprismarineslab.name=Prismarine Brick Slab
+darkprismarineslab.name=Dark Prismarine Slab
+tile.prismarinewall.name=Prismarine Wall
+tile.smoothprismarinewall.name=Prismarine Каменная Ограда
+tile.darkprismarinewall.name=Dark Prismarine Wall
+
+tile.chalkstone_0.name=Chalkstone
+tile.chalkstone_1.name=Smooth Chalkstone
+tile.chalkstone_2.name=Chalkstone Brick
+tile.chalkstonestairs.name=Chalkstone Ступеньки
+tile.smoothchalkstonestairs.name=Smooth Chalkstone Ступеньки
+tile.chalkstonebrickstairs.name=Chalkstone Brick Ступеньки
+chalkstoneslab.name=Chalkstone Slab
+smoothchalkstoneslab.name=Smooth Chalkstone Slab
+chalkstonebrickslab.name=Chalkstone Brick Slab
+tile.chalkstonewall.name=Chalkstone Wall
+tile.smoothchalkstonewall.name=Smooth Chalkstone Wall
+tile.chalkstonebrickwall.name=Chalkstone Каменная Ограда
+
+tile.marblestone_0.name=Marblestone
+tile.marblestone_1.name=Smooth Marblestone
+tile.marblestone_2.name=Marblestone Brick
+tile.marblestonestairs.name=Marblestone Ступеньки
+tile.smoothmarblestonestairs.name=Smooth Marblestone Ступеньки
+tile.marblestonebrickstairs.name=Marblestone Brick Ступеньки
+marblestoneslab.name=Marblestone Slab
+smoothmarblestoneslab.name=Smooth Marblestone Slab
+marblestonebrickslab.name=Marblestone Brick Slab
+tile.marblestonewall.name=Marblestone Wall
+tile.smoothmarblestonewall.name=Smooth Marblestone Wall
+tile.marblestonebrickwall.name=Marblestone Каменная Ограда
+
+
+
+tile.clay_brick_0.name=White Stained Глина Brick
+tile.clay_brick_1.name=Orange Stained Глина Brick
+tile.clay_brick_2.name=Magenta Stained Глина Brick
+tile.clay_brick_3.name=Light Blue Stained Глина Brick
+tile.clay_brick_4.name=Yellow Stained Глина Brick
+tile.clay_brick_5.name=Lime Stained Глина Brick
+tile.clay_brick_6.name=Pink Stained Глина Brick
+tile.clay_brick_7.name=Gray Stained Глина Brick
+tile.clay_brick_8.name=Light Gray Stained Глина Brick
+tile.clay_brick_9.name=Cyan Stained Глина Brick
+tile.clay_brick_10.name=Purple Stained Глина Brick
+tile.clay_brick_11.name=Blue Stained Глина Brick
+tile.clay_brick_12.name=Brown Stained Глина Brick
+tile.clay_brick_13.name=Зелёная Stained Глина Brick
+tile.clay_brick_14.name=Красная Stained Глина Brick
+tile.clay_brick_15.name=Чёрная Stained Глина Brick
+
+tile.bricks_0.name=White Stained Bricks
+tile.bricks_1.name=Orange Stained Bricks
+tile.bricks_2.name=Magenta Stained Bricks
+tile.bricks_3.name=Light Blue Stained Bricks
+tile.bricks_4.name=Yellow Stained Bricks
+tile.bricks_5.name=Lime Stained Bricks
+tile.bricks_6.name=Pink Stained Bricks
+tile.bricks_7.name=Gray Stained Bricks
+tile.bricks_8.name=Light Gray Stained Bricks
+tile.bricks_9.name=Cyan Stained Bricks
+tile.bricks_10.name=Purple Stained Bricks
+tile.bricks_11.name=Blue Stained Bricks
+tile.bricks_12.name=Brown Stained Bricks
+tile.bricks_13.name=Зелёная Stained Bricks
+tile.bricks_14.name=Красная Stained Bricks
+tile.bricks_15.name=Чёрная Stained Bricks
+
+tile.clay_brick_stair_0.name=White Глина Brick Ступеньки
+tile.clay_brick_stair_1.name=Orange Глина Brick Ступеньки
+tile.clay_brick_stair_2.name=Magenta Глина Brick Ступеньки
+tile.clay_brick_stair_3.name=Light Blue Глина Brick Ступеньки
+tile.clay_brick_stair_4.name=Yellow Глина Brick Ступеньки
+tile.clay_brick_stair_5.name=Lime Глина Brick Ступеньки
+tile.clay_brick_stair_6.name=Pink Глина Brick Ступеньки
+tile.clay_brick_stair_7.name=Gray Глина Brick Ступеньки
+tile.clay_brick_stair_8.name=Light Gray Глина Brick Ступеньки
+tile.clay_brick_stair_9.name=Cyan Глина Brick Ступеньки
+tile.clay_brick_stair_10.name=Purple Глина Brick Ступеньки
+tile.clay_brick_stair_11.name=Blue Gray Глина Brick Ступеньки
+tile.clay_brick_stair_12.name=Brown Глина Brick Ступеньки
+tile.clay_brick_stair_13.name=Зелёная Глина Brick Ступеньки
+tile.clay_brick_stair_14.name=Красная Глина Brick Ступеньки
+tile.clay_brick_stair_15.name=Чёрная Глина Brick Ступеньки
+
+tile.white_hardened_clay_stained_stair.name=White Stained Глина Ступеньки
+tile.yellow_hardened_clay_stained_stair.name=Yellow Stained Глина Ступеньки
+tile.orange_hardened_clay_stained_stair.name=Orange Stained Глина Ступеньки
+tile.red_hardened_clay_stained_stair.name=Красная Stained Глина Ступеньки
+tile.pink_hardened_clay_stained_stair.name=Pink Stained Глина Ступеньки
+tile.magenta_hardened_clay_stained_stair.name=Magenta Stained Глина Ступеньки
+tile.purple_hardened_clay_stained_stair.name=Purple Stained Глина Ступеньки
+tile.light_blue_hardened_clay_stained_stair.name=Light Blue Stained Глина Ступеньки
+tile.blue_hardened_clay_stained_stair.name=Blue Stained Глина Ступеньки
+tile.lime_hardened_clay_stained_stair.name=Lime Stained Глина Ступеньки
+tile.green_hardened_clay_stained_stair.name=Зелёная Stained Глина Ступеньки
+tile.silver_hardened_clay_stained_stair.name=Light Gray Stained Глина Ступеньки
+tile.cyan_hardened_clay_stained_stair.name=Cyan Stained Глина Ступеньки
+tile.gray_hardened_clay_stained_stair.name=Gray Stained Глина Ступеньки
+tile.brown_hardened_clay_stained_stair.name=Brown Stained Глина Ступеньки
+tile.black_hardened_clay_stained_stair.name=Чёрная Stained Глина Ступеньки
+
+tile.white_bricks_stair.name=White Stained Bricks Ступеньки
+tile.yellow_bricks_stair.name=Yellow Stained Bricks Ступеньки
+tile.orange_bricks_stair.name=Orange Stained Bricks Ступеньки
+tile.red_bricks_stair.name=Красная Stained Bricks Ступеньки
+tile.pink_bricks_stair.name=Pink Stained Bricks Ступеньки
+tile.magenta_bricks_stair.name=Magenta Stained Bricks Ступеньки
+tile.purple_bricks_stair.name=Purple Stained Bricks Ступеньки
+tile.light_blue_bricks_stair.name=Light Blue Stained Bricks Ступеньки
+tile.blue_bricks_stair.name=Blue Stained Bricks Ступеньки
+tile.lime_bricks_stair.name=Lime Stained Bricks Ступеньки
+tile.green_bricks_stair.name=Зелёная Stained Bricks Ступеньки
+tile.silver_bricks_stair.name=Light Gray Stained Bricks Ступеньки
+tile.cyan_bricks_stair.name=Cyan Stained Bricks Ступеньки
+tile.gray_bricks_stair.name=Gray Stained Bricks Ступеньки
+tile.brown_bricks_stair.name=Brown Stained Bricks Ступеньки
+tile.black_bricks_stair.name=Чёрная Stained Bricks Ступеньки
+
+tile.white_clay_brick_stair.name=White Stained Глина Brick Ступеньки
+tile.yellow_clay_brick_stair.name=Yellow Stained Глина Brick Ступеньки
+tile.orange_clay_brick_stair.name=Orange Stained Глина Brick Ступеньки
+tile.red_clay_brick_stair.name=Красная Stained Глина Brick Ступеньки
+tile.pink_clay_brick_stair.name=Pink Stained Глина Brick Ступеньки
+tile.magenta_clay_brick_stair.name=Magenta Stained Глина Brick Ступеньки
+tile.purple_clay_brick_stair.name=Purple Stained Глина Brick Ступеньки
+tile.light_blue_clay_brick_stair.name=Light Blue Stained Глина Brick Ступеньки
+tile.blue_clay_brick_stair.name=Blue Stained Глина Brick Ступеньки
+tile.lime_clay_brick_stair.name=Lime Stained Глина Brick Ступеньки
+tile.green_clay_brick_stair.name=Зелёная Stained Глина Brick Ступеньки
+tile.silver_clay_brick_stair.name=Light Gray Stained Глина Brick Ступеньки
+tile.cyan_clay_brick_stair.name=Cyan Stained Глина Brick Ступеньки
+tile.gray_clay_brick_stair.name=Gray Stained Глина Brick Ступеньки
+tile.brown_clay_brick_stair.name=Brown Stained Глина Brick Ступеньки
+tile.black_clay_brick_stair.name=Чёрная Stained Глина Brick Ступеньки
+
+tile.white_glass_stair.name=White Glass Ступеньки
+tile.yellow_glass_stair.name=Yellow Glass Ступеньки
+tile.orange_glass_stair.name=Orange Glass Ступеньки
+tile.red_glass_stair.name=Красная Glass Ступеньки
+tile.pink_glass_stair.name=Pink Glass Ступеньки
+tile.magenta_glass_stair.name=Magenta Glass Ступеньки
+tile.purple_glass_stair.name=Purple Glass Ступеньки
+tile.light_blue_glass_stair.name=Light Blue Glass Ступеньки
+tile.blue_glass_stair.name=Blue Glass Ступеньки
+tile.lime_glass_stair.name=Lime Glass Ступеньки
+tile.green_glass_stair.name=Зелёная Glass Ступеньки
+tile.silver_glass_stair.name=Light Gray Glass Ступеньки
+tile.cyan_glass_stair.name=Cyan Glass Ступеньки
+tile.gray_glass_stair.name=Gray Glass Ступеньки
+tile.brown_glass_stair.name=Brown Glass Ступеньки
+tile.black_glass_stair.name=Чёрная Glass Ступеньки
+
+tile.white_wool_colored_stair.name=White Wool Ступеньки
+tile.yellow_wool_colored_stair.name=Yellow Wool Ступеньки
+tile.orange_wool_colored_stair.name=Orange Wool Ступеньки
+tile.red_wool_colored_stair.name=Красная Wool Ступеньки
+tile.pink_wool_colored_stair.name=Pink Wool Ступеньки
+tile.magenta_wool_colored_stair.name=Magenta Wool Ступеньки
+tile.purple_wool_colored_stair.name=Purple Wool Ступеньки
+tile.light_blue_wool_colored_stair.name=Light Blue Wool Ступеньки
+tile.blue_wool_colored_stair.name=Blue Wool Ступеньки
+tile.lime_wool_colored_stair.name=Lime Wool Ступеньки
+tile.green_wool_colored_stair.name=Зелёная Wool Ступеньки
+tile.silver_wool_colored_stair.name=Light Gray Wool Ступеньки
+tile.cyan_wool_colored_stair.name=Cyan Wool Ступеньки
+tile.gray_wool_colored_stair.name=Gray Wool Ступеньки
+tile.brown_wool_colored_stair.name=Brown Wool Ступеньки
+tile.black_wool_colored_stair.name=Чёрная Wool Ступеньки
+
+white_clay_slab.name=White Stained Глина Slab
+yellow_clay_slab.name=Yellow Stained Глина Slab
+orange_clay_slab.name=Orange Stained Глина Slab
+red_clay_slab.name=Light Blue Stained Глина Slab
+pink_clay_slab.name=Pink Stained Глина Slab
+magenta_clay_slab.name=Magenta Stained Глина Slab
+purple_clay_slab.name=Purple Stained Глина Slab
+light_blue_clay_slab.name=Light Blue Stained Глина Slab
+blue_clay_slab.name=Blue Stained Глина Slab
+lime_clay_slab.name=Lime Stained Глина Slab
+green_clay_slab.name=Зелёная Stained Глина Slab
+silver_clay_slab.name=Light Gray Stained Глина Slab
+cyan_clay_slab.name=Cyan Stained Глина Slab
+gray_clay_slab.name=Gray Stained Глина Slab
+brown_clay_slab.name=Brown Stained Глина Slab
+black_clay_slab.name=Чёрная Stained Глина Slab
+
+white_claybrick_slab.name=White Stained Глина Brick Slab
+yellow_claybrick_slab.name=Yellow Stained Глина Brick Slab
+orange_claybrick_slab.name=Orange Stained Глина Brick Slab
+red_claybrick_slab.name=Красная Stained Глина Brick Slab
+pink_claybrick_slab.name=Pink Stained Глина Brick Slab
+magenta_claybrick_slab.name=Magenta Stained Глина Brick Slab
+purple_claybrick_slab.name=Purple Stained Глина Brick Slab
+light_blue_claybrick_slab.name=Light Blue Stained Глина Brick Slab
+blue_claybrick_slab.name=Blue Stained Глина Brick Slab
+lime_claybrick_slab.name=Lime Stained Глина Brick Slab
+green_claybrick_slab.name=Зелёная Stained Глина Brick Slab
+silver_claybrick_slab.name=Light Gray Stained Глина Brick Slab
+cyan_claybrick_slab.name=Cyan Stained Глина Brick Slab
+gray_claybrick_slab.name=Gray Stained Глина Brick Slab
+brown_claybrick_slab.name=Brown Stained Глина Brick Slab
+black_claybrick_slab.name=Чёрная Stained Глина Brick Slab
+
+white_bricks_slab.name=White Stained Bricks Slab
+yellow_bricks_slab.name=Yellow Stained Bricks Slab
+orange_bricks_slab.name=Orange Stained Bricks Slab
+red_bricks_slab.name=Красная Stained Bricks Slab
+pink_bricks_slab.name=Pink Stained Bricks Slab
+magenta_bricks_slab.name=Magenta Stained Bricks Slab
+purple_bricks_slab.name=Purple Stained Bricks Slab
+light_blue_bricks_slab.name=Light Blue Stained Bricks Slab
+blue_bricks_slab.name=Blue Stained Bricks Slab
+lime_bricks_slab.name=Lime Stained Bricks Slab
+green_bricks_slab.name=Зелёная Stained Bricks Slab
+silver_bricks_slab.name=Light Gray Stained Bricks Slab
+cyan_bricks_slab.name=Cyan Stained Bricks Slab
+gray_bricks_slab.name=Gray Stained Bricks Slab
+brown_bricks_slab.name=Brown Stained Bricks Slab
+black_bricks_slab.name=Чёрная Stained Bricks Slab
+
+white_glass_slab.name=White Glass Slab
+yellow_glass_slab.name=Yellow Glass Slab
+orange_glass_slab.name=Orange Glass Slab
+red_glass_slab.name=Красная Glass Slab
+pink_glass_slab.name=Pink Glass Slab
+magenta_glass_slab.name=Magenta Glass Slab
+purple_glass_slab.name=Purple Glass Slab
+light_blue_glass_slab.name=Light Blue Glass Slab
+blue_glass_slab.name=Blue Glass Slab
+lime_glass_slab.name=Lime Glass Slab
+green_glass_slab.name=Зелёная Glass Slab
+silver_glass_slab.name=Light Gray Glass Slab
+cyan_glass_slab.name=Cyan Glass Slab
+gray_glass_slab.name=Gray Glass Slab
+brown_glass_slab.name=Brown Glass Slab
+black_glass_slab.name=Чёрная Glass Slab
+
+white_wool_slab.name=White Wool Slab
+yellow_wool_slab.name=Yellow Wool Slab
+orange_wool_slab.name=Orange Wool Slab
+red_wool_slab.name=Красная Wool Slab
+pink_wool_slab.name=Pink Wool Slab
+magenta_wool_slab.name=Magenta Wool Slab
+purple_wool_slab.name=Purple Wool Slab
+light_blue_wool_slab.name=Light Blue Wool Slab
+blue_wool_slab.name=Blue Wool Slab
+lime_wool_slab.name=Lime Wool Slab
+green_wool_slab.name=Зелёная Wool Slab
+silver_wool_slab.name=Light Gray Wool Slab
+cyan_wool_slab.name=Cyan Wool Slab
+gray_wool_slab.name=Gray Wool Slab
+brown_wool_slab.name=Brown Wool Slab
+black_wool_slab.name=Чёрная Wool Ступеньки
+
+tile.hardened_clay_stained_wall_0.name=White Stained Глина Wall
+tile.hardened_clay_stained_wall_1.name=Orange Stained Глина Wall
+tile.hardened_clay_stained_wall_2.name=Magenta Stained Глина Wall
+tile.hardened_clay_stained_wall_3.name=Light Blue Stained Глина Wall
+tile.hardened_clay_stained_wall_4.name=Yellow Stained Глина Wall
+tile.hardened_clay_stained_wall_5.name=Lime Stained Глина Wall
+tile.hardened_clay_stained_wall_6.name=Pink Stained Глина Wall
+tile.hardened_clay_stained_wall_7.name=Gray Stained Глина Wall
+tile.hardened_clay_stained_wall_8.name=Light Gray Stained Глина Wall
+tile.hardened_clay_stained_wall_9.name=Cyan Stained Глина Wall
+tile.hardened_clay_stained_wall_10.name=Purple Stained Глина Wall
+tile.hardened_clay_stained_wall_11.name=Blue Stained Глина Wall
+tile.hardened_clay_stained_wall_12.name=Brown Stained Глина Wall
+tile.hardened_clay_stained_wall_13.name=Зелёная Stained Глина Wall
+tile.hardened_clay_stained_wall_14.name=Красная Stained Глина Wall
+tile.hardened_clay_stained_wall_15.name=Чёрная Stained Глина Wall
+
+tile.bricks_wall_0.name=White Каменная Ограда
+tile.bricks_wall_1.name=Orange Каменная Ограда
+tile.bricks_wall_2.name=Magenta Каменная Ограда
+tile.bricks_wall_3.name=Light Blue Каменная Ограда
+tile.bricks_wall_4.name=Yellow Каменная Ограда
+tile.bricks_wall_5.name=Lime Каменная Ограда
+tile.bricks_wall_6.name=Pink Каменная Ограда
+tile.bricks_wall_7.name=Gray Каменная Ограда
+tile.bricks_wall_8.name=Light Gray Каменная Ограда
+tile.bricks_wall_9.name=Cyan Каменная Ограда
+tile.bricks_wall_10.name=Purple Каменная Ограда
+tile.bricks_wall_11.name=Blue Каменная Ограда
+tile.bricks_wall_12.name=Brown Каменная Ограда
+tile.bricks_wall_13.name=Зелёная Каменная Ограда
+tile.bricks_wall_14.name=Красная Каменная Ограда
+tile.bricks_wall_15.name=Чёрная Каменная Ограда
+
+tile.clay_brick_wall_0.name=White Stained Каменная Ограда из глины
+tile.clay_brick_wall_1.name=Orange Stained Каменная Ограда из глины
+tile.clay_brick_wall_2.name=Magenta Stained Каменная Ограда из глины
+tile.clay_brick_wall_3.name=Light Blue Stained Каменная Ограда из глины
+tile.clay_brick_wall_4.name=Yellow Stained Каменная Ограда из глины
+tile.clay_brick_wall_5.name=Lime Stained Каменная Ограда из глины
+tile.clay_brick_wall_6.name=Pink Stained Каменная Ограда из глины
+tile.clay_brick_wall_7.name=Gray Stained Каменная Ограда из глины
+tile.clay_brick_wall_8.name=Light Gray Stained Каменная Ограда из глины
+tile.clay_brick_wall_9.name=Cyan Stained Каменная Ограда из глины
+tile.clay_brick_wall_10.name=Purple Stained Каменная Ограда из глины
+tile.clay_brick_wall_11.name=Blue Stained Каменная Ограда из глины
+tile.clay_brick_wall_12.name=Brown Stained Каменная Ограда из глины
+tile.clay_brick_wall_13.name=Зелёная Stained Каменная Ограда из глины
+tile.clay_brick_wall_14.name=Красная Stained Каменная Ограда из глины
+tile.clay_brick_wall_15.name=Чёрная Stained Каменная Ограда из глины
+
+tile.cragrockstairs.name=Crag Rock Ступеньки
+cragrockslab.name=Crag Rock Slab
+tile.cragrockwall.name=Crag Rock Wall
+tile.cragrockbricks.name=Crag Rock Brick
+tile.cragrockbricksstairs.name=Crag Rock Brick Ступеньки
+cragrockbricksslab.name=Crag Rock Brick Slab
+tile.cragrockbrickswall.name=Crag Rock Каменная Ограда
+
+tile.ashstonestairs.name=Ash Stone Ступеньки
+ashstoneslab.name=Ash Stone Slab
+tile.ashstonewall.name=Ash Stone Wall
+tile.ashstonebricks.name=Ash Stone Brick
+tile.ashstonebricksstairs.name=Ash Stone Brick Ступеньки
+ashstonebricksslab.name=Ash Stone Brick Slab
+tile.ashstonebrickswall.name=Ash Stone Каменная Ограда
+
+tile.harddirtstairs.name=Hardened Dirt Ступеньки
+harddirtslab.name=Hardened Dirt Slab
+tile.harddirtwall.name=Hardened Dirt Wall
+tile.harddirtbricks.name=Hardened Dirt Brick
+tile.harddirtbricksstairs.name=Hardened Dirt Brick Ступеньки
+harddirtbricksslab.name=Hardened Dirt Brick Slab
+tile.harddirtbrickswall.name=Hardened Dirt Каменная Ограда
+
+tile.drieddirtstairs.name=Dried Dirt Ступеньки
+drieddirtslab.name=Dried Dirt Slab
+tile.drieddirtwall.name=Dried Dirt Wall
+tile.drieddirtbricks.name=Dried Dirt Brick
+tile.drieddirtbricksstairs.name=Dried Dirt Brick Ступеньки
+drieddirtbricksslab.name=Dried Dirt Brick Slab
+tile.drieddirtbrickswall.name=Dried Dirt Каменная Ограда
+
+tile.limestonestairs.name=Limestone Ступеньки
+limestoneslab.name=Limestone Slab
+tile.limestonewall.name=Limestone Wall
+tile.limestonebricks.name=Limestone Brick
+tile.limestonebricksstairs.name=Limestone Brick Ступеньки
+limestonebricksslab.name=Limestone Brick Slab
+tile.limestonebrickswall.name=Limestone Каменная Ограда
+
+tile.smoothlimestonestairs.name=Polished Limestone Ступеньки
+smoothlimestoneslab.name=Polished Limestone Slab
+tile.smoothlimestonewall.name=Polished Limestone Wall
+tile.smoothlimestonebricks.name=Polished Limestone Brick
+tile.smoothlimestonebricksstairs.name=Polished Limestone Brick Ступеньки
+smoothlimestonebricksslab.name=Polished Limestone Brick Slab
+tile.smoothlimestonebrickswall.name=Polished Limestone Каменная Ограда
+
+tile.siltstonestairs.name=Siltstone Ступеньки
+siltstoneslab.name=Siltstone Slab
+tile.siltstonewall.name=Siltstone Wall
+tile.siltstonebricks.name=Siltstone Brick
+tile.siltstonebricksstairs.name=Siltstone Brick Ступеньки
+siltstonebricksslab.name=Siltstone Brick Slab
+tile.siltstonebrickswall.name=Siltstone Каменная Ограда
+
+tile.smoothsiltstonestairs.name=Polished Siltstone Ступеньки
+smoothsiltstoneslab.name=Polished Siltstone Slab
+tile.smoothsiltstonewall.name=Polished Siltstone Wall
+tile.smoothsiltstonebricks.name=Polished Siltstone Brick
+tile.smoothsiltstonebricksstairs.name=Polished Siltstone Brick Ступеньки
+smoothsiltstonebricksslab.name=Polished Siltstone Brick Slab
+tile.smoothsiltstonebrickswall.name=Polished Siltstone Каменная Ограда
+
+tile.shalestonestairs.name=Shale Ступеньки
+shalestoneslab.name=Shale Slab
+tile.shalestonewall.name=Shale Wall
+tile.shalestonebricks.name=Shale Brick
+tile.shalestonebricksstairs.name=Shale Brick Ступеньки
+shalestonebricksslab.name=Shale Brick Slab
+tile.shalestonebrickswall.name=Shale Каменная Ограда
+
+tile.smoothshalestonestairs.name=Polished Shale Ступеньки
+smoothshalestoneslab.name=Polished Shale Slab
+tile.smoothshalestonewall.name=Polished Shale Wall
+tile.smoothshalestonebricks.name=Polished Shale Brick
+tile.smoothshalestonebricksstairs.name=Polished Shale Brick Ступеньки
+smoothshalestonebricksslab.name=Polished Shale Brick Slab
+tile.smoothshalestonebrickswall.name=Polished Shale Каменная Ограда
+
+tile.oakfence.name=Oak Wood Забор
+tile.darkoakfence.name=Dark Oak Wood Забор
+tile.sprucefence.name=Spruce Wood Забор
+tile.birchfence.name=Birch Wood Забор
+tile.junglefence.name=Jungle Wood Забор
+tile.acaciafence.name=Acacia Wood Забор
+tile.woodwillowfence.name=Willow Wood Забор
+tile.woodsacredoakfence.name=Sacred Oak Wood Забор
+tile.woodmahoganyfence.name=Mahogany Wood Забор
+tile.wooddarkfence.name=Dark Wood Забор
+tile.woodhellbarkfence.name=Hell Bark Wood Забор
+tile.woodmagicfence.name=Magic Wood Забор
+tile.woodmangrovefence.name=Mangrove Wood Забор
+tile.woodetherealfence.name=Ethereal Wood Забор
+tile.woodjacarandafence.name=Jacaranda Wood Забор
+tile.woodpinefence.name=Pine Wood Забор
+tile.woodredwoodfence.name=Redwood Wood Забор
+tile.woodbamboofence.name=Bamboo Wood Забор
+tile.woodcherryfence.name=Cherry Wood Забор
+tile.woodfirfence.name=Fir Wood Забор
+tile.woodpalmfence.name=Palm Wood Забор
+
+tile.woodfencegate0.name=Oak Калитка из Дерева
+tile.woodfencegate1.name=Spruce Калитка из Дерева
+tile.woodfencegate2.name=Birch Калитка из Дерева
+tile.woodfencegate3.name=Jungle Калитка из Дерева
+tile.woodfencegate4.name=Acacia Калитка из Дерева
+tile.woodfencegate5.name=Dark Oak Калитка из Дерева
+tile.bopwoodfencegate0.name=Sacred Oak Калитка из Дерева
+tile.bopwoodfencegate1.name=Cherry Калитка из Дерева
+tile.bopwoodfencegate2.name=Dark Калитка из Дерева
+tile.bopwoodfencegate3.name=Fir Калитка из Дерева
+tile.bopwoodfencegate4.name=Ethereal Калитка из Дерева
+tile.bopwoodfencegate5.name=Magic Калитка из Дерева
+tile.bopwoodfencegate6.name=Mangrove Калитка из Дерева
+tile.bopwoodfencegate7.name=Palm Калитка из Дерева
+tile.bopwoodfencegate8.name=Redwood Калитка из Дерева
+tile.bopwoodfencegate9.name=Willow Калитка из Дерева
+tile.bopwoodfencegate10.name=Bamboo Калитка из Дерева
+tile.bopwoodfencegate11.name=Pine Калитка из Дерева
+tile.bopwoodfencegate12.name=Hell Bark Калитка из Дерева
+tile.bopwoodfencegate13.name=Jacaranda Калитка из Дерева
+tile.bopwoodfencegate14.name=Mahogany Калитка из Дерева
+
+tile.woodbutton0.name=Oak Wood Кнопка
+tile.woodbutton1.name=Spruce Wood Кнопка
+tile.woodbutton2.name=Birch Wood Кнопка
+tile.woodbutton3.name=Jungle Wood Кнопка
+tile.woodbutton4.name=Acacia Wood Кнопка
+tile.woodbutton5.name=Dark Oak Wood Кнопка
+
+tile.bopwoodbutton0.name=Sacred Oak Wood Кнопка
+tile.bopwoodbutton1.name=Cherry Wood Кнопка
+tile.bopwoodbutton2.name=Dark Wood Кнопка
+tile.bopwoodbutton3.name=Fir Wood Кнопка
+tile.bopwoodbutton4.name=Ethereal Wood Кнопка
+tile.bopwoodbutton5.name=Magic Wood Кнопка
+tile.bopwoodbutton6.name=Mangrove Wood Кнопка
+tile.bopwoodbutton7.name=Palm Wood Кнопка
+tile.bopwoodbutton8.name=Redwood Wood Кнопка
+tile.bopwoodbutton9.name=Willow Wood Кнопка
+tile.bopwoodbutton10.name=Bamboo Wood Кнопка
+tile.bopwoodbutton11.name=Pine Wood Кнопка
+tile.bopwoodbutton12.name=Hell Bark Wood Кнопка
+tile.bopwoodbutton13.name=Jacaranda Wood Кнопка
+tile.bopwoodbutton14.name=Mahogany Wood Кнопка
+
+tile.claybutton0.name=White Stained Глина Кнопка
+tile.claybutton1.name=Orange Stained Глина Кнопка
+tile.claybutton2.name=Magenta Stained Глина Кнопка
+tile.claybutton3.name=Light Blue Stained Глина Кнопка
+tile.claybutton4.name=Yellow Stained Глина Кнопка
+tile.claybutton5.name=Lime Stained Глина Кнопка
+tile.claybutton6.name=Pink Stained Глина Кнопка
+tile.claybutton7.name=Gray Stained Глина Кнопка
+tile.claybutton8.name=Light Gray Stained Глина Кнопка
+tile.claybutton9.name=Cyan Stained Глина Кнопка
+tile.claybutton10.name=Purple Stained Глина Кнопка
+tile.claybutton11.name=Blue Stained Глина Кнопка
+tile.claybutton12.name=Brown Stained Глина Кнопка
+tile.claybutton13.name=Зелёная Stained Глина Кнопка
+tile.claybutton14.name=Красная Stained Глина Кнопка
+tile.claybutton15.name=Чёрная Stained Глина Кнопка
+
+tile.coloredglassbutton0.name=White Glass Кнопка
+tile.coloredglassbutton1.name=Orange Glass Кнопка
+tile.coloredglassbutton2.name=Magenta Glass Кнопка
+tile.coloredglassbutton3.name=Light Blue Glass Кнопка
+tile.coloredglassbutton4.name=Yellow Glass Кнопка
+tile.coloredglassbutton5.name=Lime Glass Кнопка
+tile.coloredglassbutton6.name=Pink Glass Кнопка
+tile.coloredglassbutton7.name=Gray Glass Кнопка
+tile.coloredglassbutton8.name=Light Gray Glass Кнопка
+tile.coloredglassbutton9.name=Cyan Glass Кнопка
+tile.coloredglassbutton10.name=Purple Glass Кнопка
+tile.coloredglassbutton11.name=Blue Glass Кнопка
+tile.coloredglassbutton12.name=Brown Glass Кнопка
+tile.coloredglassbutton13.name=Зелёная Glass Кнопка
+tile.coloredglassbutton14.name=Красная Glass Кнопка
+tile.coloredglassbutton15.name=Чёрная Glass Кнопка
+
+tile.andesitebutton.name=Andesite Кнопка
+tile.dioritebutton.name=Diorite Кнопка
+tile.granitebutton.name=Granite Кнопка
+tile.marblestonebutton.name=Marblestone Кнопка
+tile.chalkstonebutton.name=Chalkstone Кнопка
+
+
+
+tile.bookshelf_wood_oak.name=Oak Книжная Полка
+tile.bookshelf_wood_darkoak.name=Dark Oak Книжная Полка
+tile.bookshelf_wood_birch.name=Birch Книжная Полка
+tile.bookshelf_wood_spruce.name=Spruce Книжная Полка
+tile.bookshelf_wood_jungle.name=Jungle Книжная Полка
+tile.bookshelf_wood_acacia.name=Acacia Книжная Полка
+
+tile.bookshelf_wood_sacredoak.name=Sacred Oak Книжная Полка
+tile.bookshelf_wood_cherry.name=Cherry Книжная Полка
+tile.bookshelf_wood_dark.name=Dark Книжная Полка
+tile.bookshelf_wood_fir.name=Fir Книжная Полка
+tile.bookshelf_wood_ethereal.name=Ethereal Книжная Полка
+tile.bookshelf_wood_magic.name=Magic Книжная Полка
+tile.bookshelf_wood_mangrove.name=Mangrove Книжная Полка
+tile.bookshelf_wood_palm.name=Palm Книжная Полка
+tile.bookshelf_wood_redwood.name=Redwood Книжная Полка
+tile.bookshelf_wood_willow.name=Willow Книжная Полка
+tile.bookshelf_wood_bamboo.name=Bamboo Книжная Полка
+tile.bookshelf_wood_pine.name=Pine Книжная Полка
+tile.bookshelf_wood_hell_bark.name=Hell Bark Книжная Полка
+tile.bookshelf_wood_jacaranda.name=Jacaranda Книжная Полка
+tile.bookshelf_wood_mahogany.name=Mahogany Книжная Полка
+
+tile.pressure_plate_wood_oak.name=Oak Wood Нажимная Плита
+tile.pressure_plate_wood_darkoak.name=Dark Oak Wood Нажимная Плита
+tile.pressure_plate_wood_birch.name=Birch Wood Нажимная Плита
+tile.pressure_plate_wood_spruce.name=Spruce Wood Нажимная Плита
+tile.pressure_plate_wood_jungle.name=Jungle Wood Нажимная Плита
+tile.pressure_plate_wood_acacia.name=Acacia Wood Нажимная Плита
+
+tile.pressure_plate_wood_sacredoak.name=Sacred Oak Wood Нажимная Плита
+tile.pressure_plate_wood_cherry.name=Cherry Wood Нажимная Плита
+tile.pressure_plate_wood_dark.name=Dark Wood Нажимная Плита
+tile.pressure_plate_wood_fir.name=Fir Wood Нажимная Плита
+tile.pressure_plate_wood_ethereal.name=Ethereal Wood Нажимная Плита
+tile.pressure_plate_wood_magic.name=Magic Wood Нажимная Плита
+tile.pressure_plate_wood_mangrove.name=Mangrove Wood Нажимная Плита
+tile.pressure_plate_wood_palm.name=Palm Wood Нажимная Плита
+tile.pressure_plate_wood_redwood.name=Redwood Wood Нажимная Плита
+tile.pressure_plate_wood_willow.name=Willow Wood Нажимная Плита
+tile.pressure_plate_wood_bamboo.name=Bamboo Wood Нажимная Плита
+tile.pressure_plate_wood_pine.name=Pine Wood Нажимная Плита
+tile.pressure_plate_wood_hell_bark.name=Hell Bark Wood Нажимная Плита
+tile.pressure_plate_wood_jacaranda.name=Jacaranda Wood Нажимная Плита
+tile.pressure_plate_wood_mahogany.name=Mahogany Wood Нажимная Плита
+
+
+tile.oak_wood_trapdoor.name=Oak Wood Trapdoor
+tile.darkoak_wood_trapdoor.name=Dark Oak Wood Trapdoor
+tile.spruce_wood_trapdoor.name=Spruce Wood Trapdoor
+tile.birch_wood_trapdoor.name=Birch Wood Trapdoor
+tile.jungle_wood_trapdoor.name=Jungle Wood Trapdoor
+tile.acacia_wood_trapdoor.name=Acacia Wood Trapdoor
+tile.sacredoak_wood_trapdoor.name=Sacred Oak Wood Trapdoor
+tile.cherry_wood_trapdoor.name=Cherry Wood Trapdoor
+tile.dark_wood_trapdoor.name=Dark Wood Trapdoor
+tile.fir_wood_trapdoor.name=Fir Wood Trapdoor
+tile.ethereal_wood_trapdoor.name=Ethereal Wood Trapdoor
+tile.magic_wood_trapdoor.name=Magic Wood Trapdoor
+tile.mangrove_wood_trapdoor.name=Mangrove Wood Trapdoor
+tile.palm_wood_trapdoor.name=Palm Wood Trapdoor
+tile.redwood_wood_trapdoor.name=Redwood Wood Trapdoor
+tile.willow_wood_trapdoor.name=Willow Wood Trapdoor
+tile.bamboo_wood_trapdoor.name=Bamboo Wood Trapdoor
+tile.pine_wood_trapdoor.name=Pine Wood Trapdoor
+tile.hellbark_wood_trapdoor.name=Hell Bark Wood Trapdoor
+tile.jacaranda_wood_trapdoor.name=Jacaranda Wood Trapdoor
+tile.mahogany_wood_trapdoor.name=Mahogany Wood Trapdoor
+
+tile.ladder_wood_oak.name=Oak Wood Ladder
+tile.ladder_wood_spruce.name=Spruce Wood Ladder
+tile.ladder_wood_birch.name=Birch Wood Ladder
+tile.ladder_wood_jungle.name=Jungle Wood Ladder
+tile.ladder_wood_acacia.name=Acacia Wood Ladder
+tile.ladder_wood_darkoak.name=Dark Oak Wood Ladder
+
+tile.ladder_wood_sacredoak.name=Sacred Oak Wood Ladder
+tile.ladder_wood_cherry.name=Cherry Wood Ladder
+tile.ladder_wood_dark.name=Dark Wood Ladder
+tile.ladder_wood_fir.name=Fir Wood Ladder
+tile.ladder_wood_ethereal.name=Ethereal Wood Ladder
+tile.ladder_wood_magic.name=Magic Wood Ladder
+tile.ladder_wood_mangrove.name=Mangrove Wood Ladder
+tile.ladder_wood_palm.name=Palm Wood Ladder
+tile.ladder_wood_redwood.name=Redwood Wood Ladder
+tile.ladder_wood_willow.name=Willow Wood Ladder
+tile.ladder_wood_bamboo.name=Bamboo Wood Ladder
+tile.ladder_wood_pine.name=Pine Wood Ladder
+tile.ladder_wood_hellbark.name=Hell Bark Wood Ladder
+tile.ladder_wood_jacaranda.name=Jacaranda Wood Ladder
+tile.ladder_wood_mahogany.name=Mahogany Wood Ladder
+
+tile.workbench_wood_oak.name=Oak Wood Crafting Table
+tile.workbench_wood_spruce.name=Spruce Wood Crafting Table
+tile.workbench_wood_birch.name=Birch Wood Crafting Table
+tile.workbench_wood_jungle.name=Jungle Wood Crafting Table
+tile.workbench_wood_acacia.name=Acacia Wood Crafting Table
+tile.workbench_wood_darkoak.name=Dark Oak Wood Crafting Table
+
+tile.workbench_wood_sacredoak.name=Sacred Oak Wood Crafting Table
+tile.workbench_wood_cherry.name=Cherry Wood Crafting Table
+tile.workbench_wood_dark.name=Dark Wood Crafting Table
+tile.workbench_wood_fir.name=Fir Wood Crafting Table
+tile.workbench_wood_ethereal.name=Ethereal Wood Crafting Table
+tile.workbench_wood_magic.name=Magic Wood Crafting Table
+tile.workbench_wood_mangrove.name=Mangrove Wood Crafting Table
+tile.workbench_wood_palm.name=Palm Wood Crafting Table
+tile.workbench_wood_redwood.name=Redwood Wood Crafting Table
+tile.workbench_wood_willow.name=Willow Wood Crafting Table
+tile.workbench_wood_bamboo.name=Bamboo Wood Crafting Table
+tile.workbench_wood_pine.name=Pine Wood Crafting Table
+tile.workbench_wood_hellbark.name=Hell Bark Wood Crafting Table
+tile.workbench_wood_jacaranda.name=Jacaranda Wood Crafting Table
+tile.workbench_wood_mahogany.name=Mahogany Wood Crafting Table
+
+tile.wooden_walls_0.name=Oak Wood Wall
+tile.wooden_walls_1.name=Spruce Wood Wall
+tile.wooden_walls_2.name=Birch Wood Wall
+tile.wooden_walls_3.name=Jungle Wood Wall
+tile.wooden_walls_4.name=Acacia Wood Wall
+tile.wooden_walls_5.name=Dark Oak Wood Wall
+
+tile.bop_wooden_walls_0.name=Sacred Oak Wood Wall
+tile.bop_wooden_walls_1.name=Cherry Wood Wall
+tile.bop_wooden_walls_2.name=Dark Wood Wall
+tile.bop_wooden_walls_3.name=Fir Wood Wall
+tile.bop_wooden_walls_4.name=Ethereal Wood Wall
+tile.bop_wooden_walls_5.name=Magic Wood Wall
+tile.bop_wooden_walls_6.name=Mangrove Wood Wall
+tile.bop_wooden_walls_7.name=Palm Wood Wall
+tile.bop_wooden_walls_8.name=Redwood Wood Wall
+tile.bop_wooden_walls_9.name=Willow Wood Wall
+tile.bop_wooden_walls_10.name=Bamboo Wood Wall
+tile.bop_wooden_walls_11.name=Pine Wood Wall
+tile.bop_wooden_walls_12.name=Hell Bark Wood Wall
+tile.bop_wooden_walls_13.name=Jacaranda Wood Wall
+tile.bop_wooden_walls_14.name=Mahogany Wood Wall
+
+tile.gabbro_0.name=Gabbro
+tile.gabbro_1.name=Polished Gabbro
+tile.gabbro_2.name=Bricked Gabbro
+
+tile.rhyolite_0.name=Rhyolite
+tile.rhyolite_1.name=Polished Rhyolite
+tile.rhyolite_2.name=Bricked Rhyolite
+
+tile.dacite_0.name=Dacite
+tile.dacite_1.name=Polished Dacite
+tile.dacite_2.name=Bricked Dacite
+
+tile.schist_0.name=Schist
+tile.schist_1.name=Polished Schist
+tile.schist_2.name=Bricked Schist
+
+tile.gneiss_0.name=Gneiss
+tile.gneiss_1.name=Polished Gneiss
+tile.gneiss_2.name=Bricked Gneiss
+
+tile.soapstone_0.name=Soapstone
+tile.soapstone_1.name=Polished Soapstone
+tile.soapstone_2.name=Bricked Soapstone
+
+tile.demonite_0.name=Demonite
+tile.demonite_1.name=Polished Demonite
+tile.demonite_2.name=Bricked Demonite
+
+tile.demonitewall.name=Demonite Wall
+tile.polisheddemonitewall.name=Polished Demonite Wall
+tile.brickeddemonitewall.name=Bricked Demonite Wall
+
+demoniteslab.name=Demonite Slab
+polisheddemoniteslab.name=Polished Demonite Slab
+brickeddemoniteslab.name=Bricked Demonite Slab
+
+tile.demonitestairs.name=Demonite Ступеньки
+tile.polished_demonitestairs.name=Polished Demonite Ступеньки
+tile.bricked_demonitestairs.name=Bricked Demonite Ступеньки
+
+
+tile.fel_iron_ore.name=Fel Iron Ore
+tile.fel_iron_block.name=Fel Iron Block
+
+bamboo_slab.name=Bamboo Wood Slab
+tile.bamboostairs.name=Bamboo Wood Ступеньки

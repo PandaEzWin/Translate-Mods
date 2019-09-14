@@ -1,0 +1,875 @@
+item.itemCheese.name=Cheese
+item.itemgrilledCheese.name=Grilled Cheese
+item.CheeseStew.name=Cheese Stew
+item.Cheese.name=Cheese
+
+item.vanilla_wand.name=Vanilla Wand
+item.mortar.name=Mortar
+item.flux.name=Flux
+item.prismarineshard.name=Prismarine Shard
+item.prismarinecrystals.name=Prismarine Crystals
+
+item.stonehammer.name=Stone Hammer
+item.goldhammer.name=Golden Hammer
+item.copperhammer.name=Copper Hammer
+item.ironhammer.name=Iron Hammer
+item.diamondhammer.name=Diamond Hammer
+
+item.feliron_boots.name=Fel Iron Boots
+item.feliron_helmet.name=Fel Iron Helmet
+item.feliron_leggings.name=Fel Iron Leggings
+item.feliron_chestplate.name=Fel Iron Chestplate
+
+item.feliron_nugget.name=Fel Iron Nugget
+item.feliron_ingot.name=Fel Iron Ingot
+
+item.feliron_sword.name=Fel Iron Sword
+
+item.ironsaw.name=Iron Saw
+item.goldsaw.name=Golden Saw
+item.diamondsaw.name=Diamond Saw
+item.felironsaw.name=Fel Iron Saw
+item.felironhammer.name=Fel Iron Hammer
+item.feliron_hoe.name=Fel Iron Hoe
+item.feliron_shovel.name=Fel Iron Shovel
+item.feliron_axe.name=Fel Iron Axe
+item.feliron_pickaxe=Fel Iron Pickaxe
+item.feliron_scythe=Fel Iron Scythe
+
+
+item.coloredclayball_0.name=White Stained Clayball
+item.coloredclayball_1.name=Orange Stained Clayball
+item.coloredclayball_2.name=Magenta Stained Clayball
+item.coloredclayball_3.name=Light Blue Stained Clayball
+item.coloredclayball_4.name=Yellow Stained Clayball
+item.coloredclayball_5.name=Lime Stained Clayball
+item.coloredclayball_6.name=Pink Stained Clayball
+item.coloredclayball_7.name=Gray Stained Clayball
+item.coloredclayball_8.name=Light Gray Stained Clayball
+item.coloredclayball_9.name=Cyan Stained Clayball
+item.coloredclayball_10.name=Purple Stained Clayball
+item.coloredclayball_11.name=Blue Stained Clayball
+item.coloredclayball_12.name=Brown Stained Clayball
+item.coloredclayball_13.name=Green Stained Clayball
+item.coloredclayball_14.name=Red Stained Clayball
+item.coloredclayball_15.name=Black Stained Clayball
+
+item.coloredbricksitem_0.name=White Stained Single Brick
+item.coloredbricksitem_1.name=Orange Stained Single Brick
+item.coloredbricksitem_2.name=Magenta Stained Single Brick
+item.coloredbricksitem_3.name=Light Blue Stained Single Brick
+item.coloredbricksitem_4.name=Yellow Stained Single Brick
+item.coloredbricksitem_5.name=Lime Stained Single Brick
+item.coloredbricksitem_6.name=Pink Stained Single Brick
+item.coloredbricksitem_7.name=Gray Stained Single Brick
+item.coloredbricksitem_8.name=Light Gray Stained Single Brick
+item.coloredbricksitem_9.name=Cyan Stained Single Brick
+item.coloredbricksitem_10.name=Purple Stained Single Brick
+item.coloredbricksitem_11.name=Blue Stained Single Brick
+item.coloredbricksitem_12.name=Brown Stained Single Brick
+item.coloredbricksitem_13.name=Green Stained Single Brick
+item.coloredbricksitem_14.name=Red Stained Single Brick
+item.coloredbricksitem_15.name=Black Stained Single Brick
+
+tile.raw_colored_clay_0.name=White Stained Soft Clay
+tile.raw_colored_clay_1.name=Orange Stained Soft Clay
+tile.raw_colored_clay_2.name=Magenta Stained Soft Clay
+tile.raw_colored_clay_3.name=Light Blue Stained Soft Clay
+tile.raw_colored_clay_4.name=Yellow Stained Soft Clay
+tile.raw_colored_clay_5.name=Lime Stained Soft Clay
+tile.raw_colored_clay_6.name=Pink Stained Soft Clay
+tile.raw_colored_clay_7.name=Gray Stained Soft Clay
+tile.raw_colored_clay_8.name=Light Gray Stained Soft Clay
+tile.raw_colored_clay_9.name=Cyan Stained Soft Clay
+tile.raw_colored_clay_10.name=Purple Stained Soft Clay
+tile.raw_colored_clay_11.name=Blue Stained Soft Clay
+tile.raw_colored_clay_12.name=Brown Stained Soft Clay
+tile.raw_colored_clay_13.name=Green Stained Soft Clay
+tile.raw_colored_clay_14.name=Red Stained Soft Clay
+tile.raw_colored_clay_15.name=Black Stained Soft Clay
+
+
+item.CheesePickaxe.name=Cheese Pickaxe
+item.CheeseAxe.name=Cheese Axe
+item.CheeseShovel.name=Cheese Shovel
+item.CheeseHoe.name=Cheese Hoe
+item.CheeseSword.name=Cheese Sword
+item.CheeseHelmet.name=Cheese Helmet
+item.CheeseChestplate.name=Cheese Chestplate
+item.CheeseLeggings.name=Cheese Leggings
+item.CheeseBoots.name=Cheese Boots
+
+item.wood_plank_0.name=Oak Wood Single Plank
+item.wood_plank_1.name=Spruce Wood Single Plank
+item.wood_plank_2.name=Birch Wood Single Plank
+item.wood_plank_3.name=Jungle Wood Single Plank
+item.wood_plank_4.name=Acacia Wood Single Plank
+item.wood_plank_5.name=Dark Oak Wood Single Plank
+
+item.bop_wood_plank_0.name=Sacred Oak Wood Single Plank
+item.bop_wood_plank_1.name=Cherry Wood Single Plank
+item.bop_wood_plank_2.name=Dark Wood Single Plank
+item.bop_wood_plank_3.name=Fir Wood Single Plank
+item.bop_wood_plank_4.name=Ethereal Wood Single Plank
+item.bop_wood_plank_5.name=Magic Wood Single Plank
+item.bop_wood_plank_6.name=Mangrove Wood Single Plank
+item.bop_wood_plank_7.name=Palm Wood Single Plank
+item.bop_wood_plank_8.name=Redwood Wood Single Plank
+item.bop_wood_plank_9.name=Willow Wood Single Plank
+item.bop_wood_plank_10.name=Bamboo Wood Single Plank
+item.bop_wood_plank_11.name=Pine Wood Single Plank
+item.bop_wood_plank_12.name=Hell Bark Wood Single Plank
+item.bop_wood_plank_13.name=Jacaranda Wood Single Plank
+item.bop_wood_plank_14.name=Mahogany Wood Single Plank
+
+
+itemGroup.extrablocks=Extra Blocks
+itemGroup.extrastairs=Extra Stairs
+itemGroup.extraslabs=Extra Slabs
+itemGroup.extrafood=Extra Food
+itemGroup.extraitems=Extra Items
+itemGroup.extratools=Extra Tools
+itemGroup.extrawalls=Extra Walls 
+itemGroup.extraredstone=Extra Redstone
+itemGroup.extradecor=Extra Decoration
+itemGroup.extracombat=Extra Combat
+
+tile.CheeseBlock.name=Cheese Block
+tile.CheeseStair.name=Cheese Stair
+tile.CheeseSlabSingle.name=Cheese Slab
+tile.CheeseSlabDouble.name=Cheese Double Slab
+
+
+
+
+item.testItem.name=Test Item
+tile.bluestoneBlock.name=Bluestone Block
+tile.DiceFace.name=Dice
+
+tile.sealantern.name=Sea Lantern
+
+tile.andesite_0.name=Andesite
+tile.andesite_1.name=Smooth Andesite
+tile.andesite_2.name=Andesite Brick
+tile.andesitestairs.name=Andesite Stairs
+tile.smoothandesitestairs.name=Smooth Andesite Stairs
+tile.andesitebrickstairs.name=Andesite Brick Stairs
+andesiteslab.name=Andesite Slab
+smoothandesiteslab.name=Smooth Andesite Slab
+andesitebrickslab.name=Andesite Brick Slab
+tile.andesitewall.name=Andesite Wall
+tile.smoothandesitewall.name=Smooth Andesite Wall
+tile.andesitebrickwall.name=Andesite Brick Wall
+
+tile.diorite_0.name=Diorite
+tile.diorite_1.name=Smooth Diorite
+tile.diorite_2.name=Diorite Brick
+tile.dioritestairs.name=Diorite Stairs
+tile.smoothdioritestairs.name=Smooth Diorite Stairs
+tile.dioritebrickstairs.name=Diorite Brick Stairs
+dioriteslab.name=Diorite Slab
+smoothdioriteslab.name=Smooth Diorite Slab
+dioritebrickslab.name=Diorite Brick Slab
+tile.dioritewall.name=Diorite Wall
+tile.smoothdioritewall.name=Smooth Diorite Wall
+tile.dioritebrickwall.name=Diorite Brick Wall
+
+tile.granite_0.name=Granite
+tile.granite_1.name=Smooth Granite
+tile.granite_2.name=Granite Brick
+tile.granitestairs.name=Granite Stairs
+tile.smoothgranitestairs.name=Smooth Granite Stairs
+tile.granitebrickstairs.name=Granite Brick Stairs
+graniteslab.name=Granite Slab
+smoothgraniteslab.name=Smooth Granite Slab
+granitebrickslab.name=Granite Brick Slab
+tile.granitewall.name=Granite Wall
+tile.smoothgranitewall.name=Smooth Granite Wall
+tile.granitebrickwall.name=Granite Brick Wall
+
+tile.prismarine_0.name=Prismarine
+tile.prismarine_1.name=Prismarine Brick
+tile.prismarine_2.name=Dark Prismarine
+tile.prismarinestairs.name=Prismarine Stairs
+tile.smoothprismarinestairs.name=Prismarine Brick Stairs
+tile.darkprismarinestairs.name=Dark Prismarine Stairs
+prismarineslab.name=Prismarine Slab
+smoothprismarineslab.name=Prismarine Brick Slab
+darkprismarineslab.name=Dark Prismarine Slab
+tile.prismarinewall.name=Prismarine Wall
+tile.smoothprismarinewall.name=Prismarine Brick Wall
+tile.darkprismarinewall.name=Dark Prismarine Wall
+
+tile.chalkstone_0.name=Chalkstone
+tile.chalkstone_1.name=Smooth Chalkstone
+tile.chalkstone_2.name=Chalkstone Brick
+tile.chalkstonestairs.name=Chalkstone Stairs
+tile.smoothchalkstonestairs.name=Smooth Chalkstone Stairs
+tile.chalkstonebrickstairs.name=Chalkstone Brick Stairs
+chalkstoneslab.name=Chalkstone Slab
+smoothchalkstoneslab.name=Smooth Chalkstone Slab
+chalkstonebrickslab.name=Chalkstone Brick Slab
+tile.chalkstonewall.name=Chalkstone Wall
+tile.smoothchalkstonewall.name=Smooth Chalkstone Wall
+tile.chalkstonebrickwall.name=Chalkstone Brick Wall
+
+tile.marblestone_0.name=Marblestone
+tile.marblestone_1.name=Smooth Marblestone
+tile.marblestone_2.name=Marblestone Brick
+tile.marblestonestairs.name=Marblestone Stairs
+tile.smoothmarblestonestairs.name=Smooth Marblestone Stairs
+tile.marblestonebrickstairs.name=Marblestone Brick Stairs
+marblestoneslab.name=Marblestone Slab
+smoothmarblestoneslab.name=Smooth Marblestone Slab
+marblestonebrickslab.name=Marblestone Brick Slab
+tile.marblestonewall.name=Marblestone Wall
+tile.smoothmarblestonewall.name=Smooth Marblestone Wall
+tile.marblestonebrickwall.name=Marblestone Brick Wall
+
+
+
+tile.clay_brick_0.name=White Stained Clay Brick
+tile.clay_brick_1.name=Orange Stained Clay Brick
+tile.clay_brick_2.name=Magenta Stained Clay Brick
+tile.clay_brick_3.name=Light Blue Stained Clay Brick
+tile.clay_brick_4.name=Yellow Stained Clay Brick
+tile.clay_brick_5.name=Lime Stained Clay Brick
+tile.clay_brick_6.name=Pink Stained Clay Brick
+tile.clay_brick_7.name=Gray Stained Clay Brick
+tile.clay_brick_8.name=Light Gray Stained Clay Brick
+tile.clay_brick_9.name=Cyan Stained Clay Brick
+tile.clay_brick_10.name=Purple Stained Clay Brick
+tile.clay_brick_11.name=Blue Stained Clay Brick
+tile.clay_brick_12.name=Brown Stained Clay Brick
+tile.clay_brick_13.name=Green Stained Clay Brick
+tile.clay_brick_14.name=Red Stained Clay Brick
+tile.clay_brick_15.name=Black Stained Clay Brick
+
+tile.bricks_0.name=White Stained Bricks
+tile.bricks_1.name=Orange Stained Bricks
+tile.bricks_2.name=Magenta Stained Bricks
+tile.bricks_3.name=Light Blue Stained Bricks
+tile.bricks_4.name=Yellow Stained Bricks
+tile.bricks_5.name=Lime Stained Bricks
+tile.bricks_6.name=Pink Stained Bricks
+tile.bricks_7.name=Gray Stained Bricks
+tile.bricks_8.name=Light Gray Stained Bricks
+tile.bricks_9.name=Cyan Stained Bricks
+tile.bricks_10.name=Purple Stained Bricks
+tile.bricks_11.name=Blue Stained Bricks
+tile.bricks_12.name=Brown Stained Bricks
+tile.bricks_13.name=Green Stained Bricks
+tile.bricks_14.name=Red Stained Bricks
+tile.bricks_15.name=Black Stained Bricks
+
+tile.clay_brick_stair_0.name=White Clay Brick Stairs
+tile.clay_brick_stair_1.name=Orange Clay Brick Stairs
+tile.clay_brick_stair_2.name=Magenta Clay Brick Stairs
+tile.clay_brick_stair_3.name=Light Blue Clay Brick Stairs
+tile.clay_brick_stair_4.name=Yellow Clay Brick Stairs
+tile.clay_brick_stair_5.name=Lime Clay Brick Stairs
+tile.clay_brick_stair_6.name=Pink Clay Brick Stairs
+tile.clay_brick_stair_7.name=Gray Clay Brick Stairs
+tile.clay_brick_stair_8.name=Light Gray Clay Brick Stairs
+tile.clay_brick_stair_9.name=Cyan Clay Brick Stairs
+tile.clay_brick_stair_10.name=Purple Clay Brick Stairs
+tile.clay_brick_stair_11.name=Blue Gray Clay Brick Stairs
+tile.clay_brick_stair_12.name=Brown Clay Brick Stairs
+tile.clay_brick_stair_13.name=Green Clay Brick Stairs
+tile.clay_brick_stair_14.name=Red Clay Brick Stairs
+tile.clay_brick_stair_15.name=Black Clay Brick Stairs
+
+tile.white_hardened_clay_stained_stair.name=White Stained Clay Stairs
+tile.yellow_hardened_clay_stained_stair.name=Yellow Stained Clay Stairs
+tile.orange_hardened_clay_stained_stair.name=Orange Stained Clay Stairs
+tile.red_hardened_clay_stained_stair.name=Red Stained Clay Stairs
+tile.pink_hardened_clay_stained_stair.name=Pink Stained Clay Stairs
+tile.magenta_hardened_clay_stained_stair.name=Magenta Stained Clay Stairs
+tile.purple_hardened_clay_stained_stair.name=Purple Stained Clay Stairs
+tile.light_blue_hardened_clay_stained_stair.name=Light Blue Stained Clay Stairs
+tile.blue_hardened_clay_stained_stair.name=Blue Stained Clay Stairs
+tile.lime_hardened_clay_stained_stair.name=Lime Stained Clay Stairs
+tile.green_hardened_clay_stained_stair.name=Green Stained Clay Stairs
+tile.silver_hardened_clay_stained_stair.name=Light Gray Stained Clay Stairs
+tile.cyan_hardened_clay_stained_stair.name=Cyan Stained Clay Stairs
+tile.gray_hardened_clay_stained_stair.name=Gray Stained Clay Stairs
+tile.brown_hardened_clay_stained_stair.name=Brown Stained Clay Stairs
+tile.black_hardened_clay_stained_stair.name=Black Stained Clay Stairs
+
+tile.white_bricks_stair.name=White Stained Bricks Stairs///////
+tile.yellow_bricks_stair.name=Yellow Stained Bricks Stairs
+tile.orange_bricks_stair.name=Orange Stained Bricks Stairs
+tile.red_bricks_stair.name=Red Stained Bricks Stairs
+tile.pink_bricks_stair.name=Pink Stained Bricks Stairs
+tile.magenta_bricks_stair.name=Magenta Stained Bricks Stairs
+tile.purple_bricks_stair.name=Purple Stained Bricks Stairs
+tile.light_blue_bricks_stair.name=Light Blue Stained Bricks Stairs
+tile.blue_bricks_stair.name=Blue Stained Bricks Stairs
+tile.lime_bricks_stair.name=Lime Stained Bricks Stairs
+tile.green_bricks_stair.name=Green Stained Bricks Stairs
+tile.silver_bricks_stair.name=Light Gray Stained Bricks Stairs
+tile.cyan_bricks_stair.name=Cyan Stained Bricks Stairs
+tile.gray_bricks_stair.name=Gray Stained Bricks Stairs
+tile.brown_bricks_stair.name=Brown Stained Bricks Stairs
+tile.black_bricks_stair.name=Black Stained Bricks Stairs
+
+tile.white_clay_brick_stair.name=White Stained Clay Brick Stairs
+tile.yellow_clay_brick_stair.name=Yellow Stained Clay Brick Stairs///////////
+tile.orange_clay_brick_stair.name=Orange Stained Clay Brick Stairs
+tile.red_clay_brick_stair.name=Red Stained Clay Brick Stairs
+tile.pink_clay_brick_stair.name=Pink Stained Clay Brick Stairs
+tile.magenta_clay_brick_stair.name=Magenta Stained Clay Brick Stairs
+tile.purple_clay_brick_stair.name=Purple Stained Clay Brick Stairs
+tile.light_blue_clay_brick_stair.name=Light Blue Stained Clay Brick Stairs
+tile.blue_clay_brick_stair.name=Blue Stained Clay Brick Stairs
+tile.lime_clay_brick_stair.name=Lime Stained Clay Brick Stairs
+tile.green_clay_brick_stair.name=Green Stained Clay Brick Stairs
+tile.silver_clay_brick_stair.name=Light Gray Stained Clay Brick Stairs
+tile.cyan_clay_brick_stair.name=Cyan Stained Clay Brick Stairs
+tile.gray_clay_brick_stair.name=Gray Stained Clay Brick Stairs
+tile.brown_clay_brick_stair.name=Brown Stained Clay Brick Stairs
+tile.black_clay_brick_stair.name=Black Stained Clay Brick Stairs
+
+tile.white_glass_stair.name=White Glass Stairs
+tile.yellow_glass_stair.name=Yellow Glass Stairs
+tile.orange_glass_stair.name=Orange Glass Stairs
+tile.red_glass_stair.name=Red Glass Stairs
+tile.pink_glass_stair.name=Pink Glass Stairs
+tile.magenta_glass_stair.name=Magenta Glass Stairs
+tile.purple_glass_stair.name=Purple Glass Stairs
+tile.light_blue_glass_stair.name=Light Blue Glass Stairs
+tile.blue_glass_stair.name=Blue Glass Stairs
+tile.lime_glass_stair.name=Lime Glass Stairs
+tile.green_glass_stair.name=Green Glass Stairs
+tile.silver_glass_stair.name=Light Gray Glass Stairs
+tile.cyan_glass_stair.name=Cyan Glass Stairs
+tile.gray_glass_stair.name=Gray Glass Stairs
+tile.brown_glass_stair.name=Brown Glass Stairs
+tile.black_glass_stair.name=Black Glass Stairs
+
+tile.white_wool_colored_stair.name=White Wool Stairs
+tile.yellow_wool_colored_stair.name=Yellow Wool Stairs
+tile.orange_wool_colored_stair.name=Orange Wool Stairs
+tile.red_wool_colored_stair.name=Red Wool Stairs
+tile.pink_wool_colored_stair.name=Pink Wool Stairs
+tile.magenta_wool_colored_stair.name=Magenta Wool Stairs
+tile.purple_wool_colored_stair.name=Purple Wool Stairs
+tile.light_blue_wool_colored_stair.name=Light Blue Wool Stairs
+tile.blue_wool_colored_stair.name=Blue Wool Stairs
+tile.lime_wool_colored_stair.name=Lime Wool Stairs
+tile.green_wool_colored_stair.name=Green Wool Stairs
+tile.silver_wool_colored_stair.name=Light Gray Wool Stairs
+tile.cyan_wool_colored_stair.name=Cyan Wool Stairs
+tile.gray_wool_colored_stair.name=Gray Wool Stairs
+tile.brown_wool_colored_stair.name=Brown Wool Stairs
+tile.black_wool_colored_stair.name=Black Wool Stairs
+
+white_clay_slab.name=White Stained Clay Slab
+yellow_clay_slab.name=Yellow Stained Clay Slab
+orange_clay_slab.name=Orange Stained Clay Slab
+red_clay_slab.name=Light Blue Stained Clay Slab
+pink_clay_slab.name=Pink Stained Clay Slab
+magenta_clay_slab.name=Magenta Stained Clay Slab
+purple_clay_slab.name=Purple Stained Clay Slab
+light_blue_clay_slab.name=Light Blue Stained Clay Slab
+blue_clay_slab.name=Blue Stained Clay Slab
+lime_clay_slab.name=Lime Stained Clay Slab
+green_clay_slab.name=Green Stained Clay Slab
+silver_clay_slab.name=Light Gray Stained Clay Slab
+cyan_clay_slab.name=Cyan Stained Clay Slab
+gray_clay_slab.name=Gray Stained Clay Slab
+brown_clay_slab.name=Brown Stained Clay Slab
+black_clay_slab.name=Black Stained Clay Slab
+
+white_claybrick_slab.name=White Stained Clay Brick Slab
+yellow_claybrick_slab.name=Yellow Stained Clay Brick Slab
+orange_claybrick_slab.name=Orange Stained Clay Brick Slab
+red_claybrick_slab.name=Red Stained Clay Brick Slab
+pink_claybrick_slab.name=Pink Stained Clay Brick Slab
+magenta_claybrick_slab.name=Magenta Stained Clay Brick Slab
+purple_claybrick_slab.name=Purple Stained Clay Brick Slab
+light_blue_claybrick_slab.name=Light Blue Stained Clay Brick Slab
+blue_claybrick_slab.name=Blue Stained Clay Brick Slab
+lime_claybrick_slab.name=Lime Stained Clay Brick Slab
+green_claybrick_slab.name=Green Stained Clay Brick Slab
+silver_claybrick_slab.name=Light Gray Stained Clay Brick Slab
+cyan_claybrick_slab.name=Cyan Stained Clay Brick Slab
+gray_claybrick_slab.name=Gray Stained Clay Brick Slab
+brown_claybrick_slab.name=Brown Stained Clay Brick Slab
+black_claybrick_slab.name=Black Stained Clay Brick Slab
+
+white_bricks_slab.name=White Stained Bricks Slab
+yellow_bricks_slab.name=Yellow Stained Bricks Slab
+orange_bricks_slab.name=Orange Stained Bricks Slab
+red_bricks_slab.name=Red Stained Bricks Slab
+pink_bricks_slab.name=Pink Stained Bricks Slab
+magenta_bricks_slab.name=Magenta Stained Bricks Slab
+purple_bricks_slab.name=Purple Stained Bricks Slab
+light_blue_bricks_slab.name=Light Blue Stained Bricks Slab
+blue_bricks_slab.name=Blue Stained Bricks Slab
+lime_bricks_slab.name=Lime Stained Bricks Slab
+green_bricks_slab.name=Green Stained Bricks Slab
+silver_bricks_slab.name=Light Gray Stained Bricks Slab
+cyan_bricks_slab.name=Cyan Stained Bricks Slab
+gray_bricks_slab.name=Gray Stained Bricks Slab
+brown_bricks_slab.name=Brown Stained Bricks Slab
+black_bricks_slab.name=Black Stained Bricks Slab
+
+white_glass_slab.name=White Glass Slab
+yellow_glass_slab.name=Yellow Glass Slab
+orange_glass_slab.name=Orange Glass Slab
+red_glass_slab.name=Red Glass Slab
+pink_glass_slab.name=Pink Glass Slab
+magenta_glass_slab.name=Magenta Glass Slab
+purple_glass_slab.name=Purple Glass Slab
+light_blue_glass_slab.name=Light Blue Glass Slab
+blue_glass_slab.name=Blue Glass Slab
+lime_glass_slab.name=Lime Glass Slab
+green_glass_slab.name=Green Glass Slab
+silver_glass_slab.name=Light Gray Glass Slab
+cyan_glass_slab.name=Cyan Glass Slab
+gray_glass_slab.name=Gray Glass Slab
+brown_glass_slab.name=Brown Glass Slab
+black_glass_slab.name=Black Glass Slab
+
+white_wool_slab.name=White Wool Slab
+yellow_wool_slab.name=Yellow Wool Slab
+orange_wool_slab.name=Orange Wool Slab
+red_wool_slab.name=Red Wool Slab
+pink_wool_slab.name=Pink Wool Slab
+magenta_wool_slab.name=Magenta Wool Slab
+purple_wool_slab.name=Purple Wool Slab
+light_blue_wool_slab.name=Light Blue Wool Slab
+blue_wool_slab.name=Blue Wool Slab
+lime_wool_slab.name=Lime Wool Slab
+green_wool_slab.name=Green Wool Slab
+silver_wool_slab.name=Light Gray Wool Slab
+cyan_wool_slab.name=Cyan Wool Slab
+gray_wool_slab.name=Gray Wool Slab
+brown_wool_slab.name=Brown Wool Slab
+black_wool_slab.name=Black Wool Stairs
+
+tile.hardened_clay_stained_wall_0.name=White Stained Clay Wall
+tile.hardened_clay_stained_wall_1.name=Orange Stained Clay Wall
+tile.hardened_clay_stained_wall_2.name=Magenta Stained Clay Wall
+tile.hardened_clay_stained_wall_3.name=Light Blue Stained Clay Wall
+tile.hardened_clay_stained_wall_4.name=Yellow Stained Clay Wall
+tile.hardened_clay_stained_wall_5.name=Lime Stained Clay Wall
+tile.hardened_clay_stained_wall_6.name=Pink Stained Clay Wall
+tile.hardened_clay_stained_wall_7.name=Gray Stained Clay Wall
+tile.hardened_clay_stained_wall_8.name=Light Gray Stained Clay Wall
+tile.hardened_clay_stained_wall_9.name=Cyan Stained Clay Wall
+tile.hardened_clay_stained_wall_10.name=Purple Stained Clay Wall
+tile.hardened_clay_stained_wall_11.name=Blue Stained Clay Wall
+tile.hardened_clay_stained_wall_12.name=Brown Stained Clay Wall
+tile.hardened_clay_stained_wall_13.name=Green Stained Clay Wall
+tile.hardened_clay_stained_wall_14.name=Red Stained Clay Wall
+tile.hardened_clay_stained_wall_15.name=Black Stained Clay Wall
+
+tile.bricks_wall_0.name=White Stained Bricks Wall
+tile.bricks_wall_1.name=Orange Stained Bricks Wall
+tile.bricks_wall_2.name=Magenta Stained Bricks Wall
+tile.bricks_wall_3.name=Light Blue Stained Bricks Wall
+tile.bricks_wall_4.name=Yellow Stained Bricks Wall
+tile.bricks_wall_5.name=Lime Stained Bricks Wall
+tile.bricks_wall_6.name=Pink Stained Bricks Wall
+tile.bricks_wall_7.name=Gray Stained Bricks Wall
+tile.bricks_wall_8.name=Light Gray Stained Bricks Wall
+tile.bricks_wall_9.name=Cyan Stained Bricks Wall
+tile.bricks_wall_10.name=Purple Stained Bricks Wall
+tile.bricks_wall_11.name=Blue Stained Bricks Wall
+tile.bricks_wall_12.name=Brown Stained Bricks Wall
+tile.bricks_wall_13.name=Green Stained Bricks Wall
+tile.bricks_wall_14.name=Red Stained Bricks Wall
+tile.bricks_wall_15.name=Black Stained Bricks Wall
+
+tile.clay_brick_wall_0.name=White Stained Clay Brick Wall
+tile.clay_brick_wall_1.name=Orange Stained Clay Brick Wall
+tile.clay_brick_wall_2.name=Magenta Stained Clay Brick Wall
+tile.clay_brick_wall_3.name=Light Blue Stained Clay Brick Wall
+tile.clay_brick_wall_4.name=Yellow Stained Clay Brick Wall
+tile.clay_brick_wall_5.name=Lime Stained Clay Brick Wall
+tile.clay_brick_wall_6.name=Pink Stained Clay Brick Wall
+tile.clay_brick_wall_7.name=Gray Stained Clay Brick Wall
+tile.clay_brick_wall_8.name=Light Gray Stained Clay Brick Wall
+tile.clay_brick_wall_9.name=Cyan Stained Clay Brick Wall
+tile.clay_brick_wall_10.name=Purple Stained Clay Brick Wall
+tile.clay_brick_wall_11.name=Blue Stained Clay Brick Wall
+tile.clay_brick_wall_12.name=Brown Stained Clay Brick Wall
+tile.clay_brick_wall_13.name=Green Stained Clay Brick Wall
+tile.clay_brick_wall_14.name=Red Stained Clay Brick Wall
+tile.clay_brick_wall_15.name=Black Stained Clay Brick Wall
+
+tile.cragrockstairs.name=Crag Rock Stairs
+cragrockslab.name=Crag Rock Slab
+tile.cragrockwall.name=Crag Rock Wall
+tile.cragrockbricks.name=Crag Rock Brick
+tile.cragrockbricksstairs.name=Crag Rock Brick Stairs
+cragrockbricksslab.name=Crag Rock Brick Slab
+tile.cragrockbrickswall.name=Crag Rock Brick Wall
+
+tile.ashstonestairs.name=Ash Stone Stairs
+ashstoneslab.name=Ash Stone Slab
+tile.ashstonewall.name=Ash Stone Wall
+tile.ashstonebricks.name=Ash Stone Brick
+tile.ashstonebricksstairs.name=Ash Stone Brick Stairs
+ashstonebricksslab.name=Ash Stone Brick Slab
+tile.ashstonebrickswall.name=Ash Stone Brick Wall
+
+tile.harddirtstairs.name=Hardened Dirt Stairs
+harddirtslab.name=Hardened Dirt Slab
+tile.harddirtwall.name=Hardened Dirt Wall
+tile.harddirtbricks.name=Hardened Dirt Brick
+tile.harddirtbricksstairs.name=Hardened Dirt Brick Stairs
+harddirtbricksslab.name=Hardened Dirt Brick Slab
+tile.harddirtbrickswall.name=Hardened Dirt Brick Wall
+
+tile.drieddirtstairs.name=Dried Dirt Stairs
+drieddirtslab.name=Dried Dirt Slab
+tile.drieddirtwall.name=Dried Dirt Wall
+tile.drieddirtbricks.name=Dried Dirt Brick
+tile.drieddirtbricksstairs.name=Dried Dirt Brick Stairs
+drieddirtbricksslab.name=Dried Dirt Brick Slab
+tile.drieddirtbrickswall.name=Dried Dirt Brick Wall
+
+tile.limestonestairs.name=Limestone Stairs
+limestoneslab.name=Limestone Slab
+tile.limestonewall.name=Limestone Wall
+tile.limestonebricks.name=Limestone Brick
+tile.limestonebricksstairs.name=Limestone Brick Stairs
+limestonebricksslab.name=Limestone Brick Slab
+tile.limestonebrickswall.name=Limestone Brick Wall
+
+tile.smoothlimestonestairs.name=Polished Limestone Stairs
+smoothlimestoneslab.name=Polished Limestone Slab
+tile.smoothlimestonewall.name=Polished Limestone Wall
+tile.smoothlimestonebricks.name=Polished Limestone Brick
+tile.smoothlimestonebricksstairs.name=Polished Limestone Brick Stairs
+smoothlimestonebricksslab.name=Polished Limestone Brick Slab
+tile.smoothlimestonebrickswall.name=Polished Limestone Brick Wall
+
+tile.siltstonestairs.name=Siltstone Stairs
+siltstoneslab.name=Siltstone Slab
+tile.siltstonewall.name=Siltstone Wall
+tile.siltstonebricks.name=Siltstone Brick
+tile.siltstonebricksstairs.name=Siltstone Brick Stairs
+siltstonebricksslab.name=Siltstone Brick Slab
+tile.siltstonebrickswall.name=Siltstone Brick Wall
+
+tile.smoothsiltstonestairs.name=Polished Siltstone Stairs
+smoothsiltstoneslab.name=Polished Siltstone Slab
+tile.smoothsiltstonewall.name=Polished Siltstone Wall
+tile.smoothsiltstonebricks.name=Polished Siltstone Brick
+tile.smoothsiltstonebricksstairs.name=Polished Siltstone Brick Stairs
+smoothsiltstonebricksslab.name=Polished Siltstone Brick Slab
+tile.smoothsiltstonebrickswall.name=Polished Siltstone Brick Wall
+
+tile.shalestonestairs.name=Shale Stairs
+shalestoneslab.name=Shale Slab
+tile.shalestonewall.name=Shale Wall
+tile.shalestonebricks.name=Shale Brick
+tile.shalestonebricksstairs.name=Shale Brick Stairs
+shalestonebricksslab.name=Shale Brick Slab
+tile.shalestonebrickswall.name=Shale Brick Wall
+
+tile.smoothshalestonestairs.name=Polished Shale Stairs
+smoothshalestoneslab.name=Polished Shale Slab
+tile.smoothshalestonewall.name=Polished Shale Wall
+tile.smoothshalestonebricks.name=Polished Shale Brick
+tile.smoothshalestonebricksstairs.name=Polished Shale Brick Stairs
+smoothshalestonebricksslab.name=Polished Shale Brick Slab
+tile.smoothshalestonebrickswall.name=Polished Shale Brick Wall
+
+tile.oakfence.name=Oak Wood Fence
+tile.darkoakfence.name=Dark Oak Wood Fence
+tile.sprucefence.name=Spruce Wood Fence
+tile.birchfence.name=Birch Wood Fence
+tile.junglefence.name=Jungle Wood Fence
+tile.acaciafence.name=Acacia Wood Fence
+tile.woodwillowfence.name=Willow Wood Fence
+tile.woodsacredoakfence.name=Sacred Oak Wood Fence
+tile.woodmahoganyfence.name=Mahogany Wood Fence
+tile.wooddarkfence.name=Dark Wood Fence
+tile.woodhellbarkfence.name=Hell Bark Wood Fence
+tile.woodmagicfence.name=Magic Wood Fence
+tile.woodmangrovefence.name=Mangrove Wood Fence
+tile.woodetherealfence.name=Ethereal Wood Fence
+tile.woodjacarandafence.name=Jacaranda Wood Fence
+tile.woodpinefence.name=Pine Wood Fence
+tile.woodredwoodfence.name=Redwood Wood Fence
+tile.woodbamboofence.name=Bamboo Wood Fence
+tile.woodcherryfence.name=Cherry Wood Fence
+tile.woodfirfence.name=Fir Wood Fence
+tile.woodpalmfence.name=Palm Wood Fence
+
+tile.woodfencegate0.name=Oak Wood Fence Gate
+tile.woodfencegate1.name=Spruce Wood Fence Gate
+tile.woodfencegate2.name=Birch Wood Fence Gate
+tile.woodfencegate3.name=Jungle Wood Fence Gate
+tile.woodfencegate4.name=Acacia Wood Fence Gate
+tile.woodfencegate5.name=Dark Oak Wood Fence Gate
+tile.bopwoodfencegate0.name=Sacred Oak Wood Fence Gate
+tile.bopwoodfencegate1.name=Cherry Wood Fence Gate
+tile.bopwoodfencegate2.name=Dark Wood Fence Gate
+tile.bopwoodfencegate3.name=Fir Wood Fence Gate
+tile.bopwoodfencegate4.name=Ethereal Wood Fence Gate
+tile.bopwoodfencegate5.name=Magic Wood Fence Gate
+tile.bopwoodfencegate6.name=Mangrove Wood Fence Gate
+tile.bopwoodfencegate7.name=Palm Wood Fence Gate
+tile.bopwoodfencegate8.name=Redwood Wood Fence Gate
+tile.bopwoodfencegate9.name=Willow Wood Fence Gate
+tile.bopwoodfencegate10.name=Bamboo Wood Fence Gate
+tile.bopwoodfencegate11.name=Pine Wood Fence Gate
+tile.bopwoodfencegate12.name=Hell Bark Wood Fence Gate
+tile.bopwoodfencegate13.name=Jacaranda Wood Fence Gate
+tile.bopwoodfencegate14.name=Mahogany Wood Fence Gate
+
+tile.woodbutton0.name=Oak Wood Button
+tile.woodbutton1.name=Spruce Wood Button
+tile.woodbutton2.name=Birch Wood Button
+tile.woodbutton3.name=Jungle Wood Button
+tile.woodbutton4.name=Acacia Wood Button
+tile.woodbutton5.name=Dark Oak Wood Button
+
+tile.bopwoodbutton0.name=Sacred Oak Wood Button
+tile.bopwoodbutton1.name=Cherry Wood Button
+tile.bopwoodbutton2.name=Dark Wood Button
+tile.bopwoodbutton3.name=Fir Wood Button
+tile.bopwoodbutton4.name=Ethereal Wood Button
+tile.bopwoodbutton5.name=Magic Wood Button
+tile.bopwoodbutton6.name=Mangrove Wood Button
+tile.bopwoodbutton7.name=Palm Wood Button
+tile.bopwoodbutton8.name=Redwood Wood Button
+tile.bopwoodbutton9.name=Willow Wood Button
+tile.bopwoodbutton10.name=Bamboo Wood Button
+tile.bopwoodbutton11.name=Pine Wood Button
+tile.bopwoodbutton12.name=Hell Bark Wood Button
+tile.bopwoodbutton13.name=Jacaranda Wood Button
+tile.bopwoodbutton14.name=Mahogany Wood Button
+
+tile.claybutton0.name=White Stained Clay Button
+tile.claybutton1.name=Orange Stained Clay Button
+tile.claybutton2.name=Magenta Stained Clay Button
+tile.claybutton3.name=Light Blue Stained Clay Button
+tile.claybutton4.name=Yellow Stained Clay Button
+tile.claybutton5.name=Lime Stained Clay Button
+tile.claybutton6.name=Pink Stained Clay Button
+tile.claybutton7.name=Gray Stained Clay Button
+tile.claybutton8.name=Light Gray Stained Clay Button
+tile.claybutton9.name=Cyan Stained Clay Button
+tile.claybutton10.name=Purple Stained Clay Button
+tile.claybutton11.name=Blue Stained Clay Button
+tile.claybutton12.name=Brown Stained Clay Button
+tile.claybutton13.name=Green Stained Clay Button
+tile.claybutton14.name=Red Stained Clay Button
+tile.claybutton15.name=Black Stained Clay Button
+
+tile.coloredglassbutton0.name=White Glass Button
+tile.coloredglassbutton1.name=Orange Glass Button
+tile.coloredglassbutton2.name=Magenta Glass Button
+tile.coloredglassbutton3.name=Light Blue Glass Button
+tile.coloredglassbutton4.name=Yellow Glass Button
+tile.coloredglassbutton5.name=Lime Glass Button
+tile.coloredglassbutton6.name=Pink Glass Button
+tile.coloredglassbutton7.name=Gray Glass Button
+tile.coloredglassbutton8.name=Light Gray Glass Button
+tile.coloredglassbutton9.name=Cyan Glass Button
+tile.coloredglassbutton10.name=Purple Glass Button
+tile.coloredglassbutton11.name=Blue Glass Button
+tile.coloredglassbutton12.name=Brown Glass Button
+tile.coloredglassbutton13.name=Green Glass Button
+tile.coloredglassbutton14.name=Red Glass Button
+tile.coloredglassbutton15.name=Black Glass Button
+
+tile.andesitebutton.name=Andesite Button
+tile.dioritebutton.name=Diorite Button
+tile.granitebutton.name=Granite Button
+tile.marblestonebutton.name=Marblestone Button
+tile.chalkstonebutton.name=Chalkstone Button
+
+
+
+tile.bookshelf_wood_oak.name=Oak Wood Bookshelf
+tile.bookshelf_wood_darkoak.name=Dark Oak Wood Bookshelf
+tile.bookshelf_wood_birch.name=Birch Wood Bookshelf
+tile.bookshelf_wood_spruce.name=Spruce Wood Bookshelf
+tile.bookshelf_wood_jungle.name=Jungle Wood Bookshelf
+tile.bookshelf_wood_acacia.name=Acacia Wood Bookshelf
+
+tile.bookshelf_wood_sacredoak.name=Sacred Oak Wood Bookshelf
+tile.bookshelf_wood_cherry.name=Cherry Wood Bookshelf
+tile.bookshelf_wood_dark.name=Dark Wood Bookshelf
+tile.bookshelf_wood_fir.name=Fir Wood Bookshelf
+tile.bookshelf_wood_ethereal.name=Ethereal Wood Bookshelf
+tile.bookshelf_wood_magic.name=Magic Wood Bookshelf
+tile.bookshelf_wood_mangrove.name=Mangrove Wood Bookshelf
+tile.bookshelf_wood_palm.name=Palm Wood Bookshelf
+tile.bookshelf_wood_redwood.name=Redwood Wood Bookshelf
+tile.bookshelf_wood_willow.name=Willow Wood Bookshelf
+tile.bookshelf_wood_bamboo.name=Bamboo Wood Bookshelf
+tile.bookshelf_wood_pine.name=Pine Wood Bookshelf
+tile.bookshelf_wood_hell_bark.name=Hell Bark Wood Bookshelf
+tile.bookshelf_wood_jacaranda.name=Jacaranda Wood Bookshelf
+tile.bookshelf_wood_mahogany.name=Mahogany Wood Bookshelf
+
+tile.pressure_plate_wood_oak.name=Oak Wood Pressure Plate
+tile.pressure_plate_wood_darkoak.name=Dark Oak Wood Pressure Plate
+tile.pressure_plate_wood_birch.name=Birch Wood Pressure Plate
+tile.pressure_plate_wood_spruce.name=Spruce Wood Pressure Plate
+tile.pressure_plate_wood_jungle.name=Jungle Wood Pressure Plate
+tile.pressure_plate_wood_acacia.name=Acacia Wood Pressure Plate
+
+tile.pressure_plate_wood_sacredoak.name=Sacred Oak Wood Pressure Plate
+tile.pressure_plate_wood_cherry.name=Cherry Wood Pressure Plate
+tile.pressure_plate_wood_dark.name=Dark Wood Pressure Plate
+tile.pressure_plate_wood_fir.name=Fir Wood Pressure Plate
+tile.pressure_plate_wood_ethereal.name=Ethereal Wood Pressure Plate
+tile.pressure_plate_wood_magic.name=Magic Wood Pressure Plate
+tile.pressure_plate_wood_mangrove.name=Mangrove Wood Pressure Plate
+tile.pressure_plate_wood_palm.name=Palm Wood Pressure Plate
+tile.pressure_plate_wood_redwood.name=Redwood Wood Pressure Plate
+tile.pressure_plate_wood_willow.name=Willow Wood Pressure Plate
+tile.pressure_plate_wood_bamboo.name=Bamboo Wood Pressure Plate
+tile.pressure_plate_wood_pine.name=Pine Wood Pressure Plate
+tile.pressure_plate_wood_hell_bark.name=Hell Bark Wood Pressure Plate
+tile.pressure_plate_wood_jacaranda.name=Jacaranda Wood Pressure Plate
+tile.pressure_plate_wood_mahogany.name=Mahogany Wood Pressure Plate
+
+
+tile.oak_wood_trapdoor.name=Oak Wood Trapdoor
+tile.darkoak_wood_trapdoor.name=Dark Oak Wood Trapdoor
+tile.spruce_wood_trapdoor.name=Spruce Wood Trapdoor
+tile.birch_wood_trapdoor.name=Birch Wood Trapdoor
+tile.jungle_wood_trapdoor.name=Jungle Wood Trapdoor
+tile.acacia_wood_trapdoor.name=Acacia Wood Trapdoor
+tile.sacredoak_wood_trapdoor.name=Sacred Oak Wood Trapdoor
+tile.cherry_wood_trapdoor.name=Cherry Wood Trapdoor
+tile.dark_wood_trapdoor.name=Dark Wood Trapdoor
+tile.fir_wood_trapdoor.name=Fir Wood Trapdoor
+tile.ethereal_wood_trapdoor.name=Ethereal Wood Trapdoor
+tile.magic_wood_trapdoor.name=Magic Wood Trapdoor
+tile.mangrove_wood_trapdoor.name=Mangrove Wood Trapdoor
+tile.palm_wood_trapdoor.name=Palm Wood Trapdoor
+tile.redwood_wood_trapdoor.name=Redwood Wood Trapdoor
+tile.willow_wood_trapdoor.name=Willow Wood Trapdoor
+tile.bamboo_wood_trapdoor.name=Bamboo Wood Trapdoor
+tile.pine_wood_trapdoor.name=Pine Wood Trapdoor
+tile.hellbark_wood_trapdoor.name=Hell Bark Wood Trapdoor
+tile.jacaranda_wood_trapdoor.name=Jacaranda Wood Trapdoor
+tile.mahogany_wood_trapdoor.name=Mahogany Wood Trapdoor
+
+tile.ladder_wood_oak.name=Oak Wood Ladder
+tile.ladder_wood_spruce.name=Spruce Wood Ladder
+tile.ladder_wood_birch.name=Birch Wood Ladder
+tile.ladder_wood_jungle.name=Jungle Wood Ladder
+tile.ladder_wood_acacia.name=Acacia Wood Ladder
+tile.ladder_wood_darkoak.name=Dark Oak Wood Ladder
+
+tile.ladder_wood_sacredoak.name=Sacred Oak Wood Ladder
+tile.ladder_wood_cherry.name=Cherry Wood Ladder
+tile.ladder_wood_dark.name=Dark Wood Ladder
+tile.ladder_wood_fir.name=Fir Wood Ladder
+tile.ladder_wood_ethereal.name=Ethereal Wood Ladder
+tile.ladder_wood_magic.name=Magic Wood Ladder
+tile.ladder_wood_mangrove.name=Mangrove Wood Ladder
+tile.ladder_wood_palm.name=Palm Wood Ladder
+tile.ladder_wood_redwood.name=Redwood Wood Ladder
+tile.ladder_wood_willow.name=Willow Wood Ladder
+tile.ladder_wood_bamboo.name=Bamboo Wood Ladder
+tile.ladder_wood_pine.name=Pine Wood Ladder
+tile.ladder_wood_hellbark.name=Hell Bark Wood Ladder
+tile.ladder_wood_jacaranda.name=Jacaranda Wood Ladder
+tile.ladder_wood_mahogany.name=Mahogany Wood Ladder
+
+tile.workbench_wood_oak.name=Oak Wood Crafting Table
+tile.workbench_wood_spruce.name=Spruce Wood Crafting Table
+tile.workbench_wood_birch.name=Birch Wood Crafting Table
+tile.workbench_wood_jungle.name=Jungle Wood Crafting Table
+tile.workbench_wood_acacia.name=Acacia Wood Crafting Table
+tile.workbench_wood_darkoak.name=Dark Oak Wood Crafting Table
+
+tile.workbench_wood_sacredoak.name=Sacred Oak Wood Crafting Table
+tile.workbench_wood_cherry.name=Cherry Wood Crafting Table
+tile.workbench_wood_dark.name=Dark Wood Crafting Table
+tile.workbench_wood_fir.name=Fir Wood Crafting Table
+tile.workbench_wood_ethereal.name=Ethereal Wood Crafting Table
+tile.workbench_wood_magic.name=Magic Wood Crafting Table
+tile.workbench_wood_mangrove.name=Mangrove Wood Crafting Table
+tile.workbench_wood_palm.name=Palm Wood Crafting Table
+tile.workbench_wood_redwood.name=Redwood Wood Crafting Table
+tile.workbench_wood_willow.name=Willow Wood Crafting Table
+tile.workbench_wood_bamboo.name=Bamboo Wood Crafting Table
+tile.workbench_wood_pine.name=Pine Wood Crafting Table
+tile.workbench_wood_hellbark.name=Hell Bark Wood Crafting Table
+tile.workbench_wood_jacaranda.name=Jacaranda Wood Crafting Table
+tile.workbench_wood_mahogany.name=Mahogany Wood Crafting Table
+
+tile.wooden_walls_0.name=Oak Wood Wall
+tile.wooden_walls_1.name=Spruce Wood Wall
+tile.wooden_walls_2.name=Birch Wood Wall
+tile.wooden_walls_3.name=Jungle Wood Wall
+tile.wooden_walls_4.name=Acacia Wood Wall
+tile.wooden_walls_5.name=Dark Oak Wood Wall
+
+tile.bop_wooden_walls_0.name=Sacred Oak Wood Wall
+tile.bop_wooden_walls_1.name=Cherry Wood Wall
+tile.bop_wooden_walls_2.name=Dark Wood Wall
+tile.bop_wooden_walls_3.name=Fir Wood Wall
+tile.bop_wooden_walls_4.name=Ethereal Wood Wall
+tile.bop_wooden_walls_5.name=Magic Wood Wall
+tile.bop_wooden_walls_6.name=Mangrove Wood Wall
+tile.bop_wooden_walls_7.name=Palm Wood Wall
+tile.bop_wooden_walls_8.name=Redwood Wood Wall
+tile.bop_wooden_walls_9.name=Willow Wood Wall
+tile.bop_wooden_walls_10.name=Bamboo Wood Wall
+tile.bop_wooden_walls_11.name=Pine Wood Wall
+tile.bop_wooden_walls_12.name=Hell Bark Wood Wall
+tile.bop_wooden_walls_13.name=Jacaranda Wood Wall
+tile.bop_wooden_walls_14.name=Mahogany Wood Wall
+
+tile.gabbro_0.name=Gabbro
+tile.gabbro_1.name=Polished Gabbro
+tile.gabbro_2.name=Bricked Gabbro
+
+tile.rhyolite_0.name=Rhyolite
+tile.rhyolite_1.name=Polished Rhyolite
+tile.rhyolite_2.name=Bricked Rhyolite
+
+tile.dacite_0.name=Dacite
+tile.dacite_1.name=Polished Dacite
+tile.dacite_2.name=Bricked Dacite
+
+tile.schist_0.name=Schist
+tile.schist_1.name=Polished Schist
+tile.schist_2.name=Bricked Schist
+
+tile.gneiss_0.name=Gneiss
+tile.gneiss_1.name=Polished Gneiss
+tile.gneiss_2.name=Bricked Gneiss
+
+tile.soapstone_0.name=Soapstone
+tile.soapstone_1.name=Polished Soapstone
+tile.soapstone_2.name=Bricked Soapstone
+
+tile.demonite_0.name=Demonite
+tile.demonite_1.name=Polished Demonite
+tile.demonite_2.name=Bricked Demonite
+
+tile.demonitewall.name=Demonite Wall
+tile.polisheddemonitewall.name=Polished Demonite Wall
+tile.brickeddemonitewall.name=Bricked Demonite Wall
+
+demoniteslab.name=Demonite Slab
+polisheddemoniteslab.name=Polished Demonite Slab
+brickeddemoniteslab.name=Bricked Demonite Slab
+
+tile.demonitestairs.name=Demonite Stairs
+tile.polished_demonitestairs.name=Polished Demonite Stairs
+tile.bricked_demonitestairs.name=Bricked Demonite Stairs
+
+
+tile.fel_iron_ore.name=Fel Iron Ore
+tile.fel_iron_block.name=Fel Iron Block
+
+bamboo_slab.name=Bamboo Wood Slab
+tile.bamboostairs.name=Bamboo Wood Stairs
