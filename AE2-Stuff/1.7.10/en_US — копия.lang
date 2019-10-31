@@ -1,27 +1,20 @@
 tile.ae2stuff.Encoder.name=Кодировщик шаблонов
 tile.ae2stuff.Grower.name=Камера для выращивания кристалов tile.ae2stuff.Inscriber.name=Улучшенный высекатель
 tile.ae2stuff.Wireless.name=Беспроводной соединитель
-
 item.ae2stuff.WirelessKit.name=Комплект беспроводной настройки
 item.ae2stuff.Visualiser.name=Инструмент сетевой визуализации
-
 ae2stuff.error.not_connected=Нет соединения с сетью
-
 ae2stuff.waila.sleep.true=Спящий
 ae2stuff.waila.sleep.false=Рабочий
 ae2stuff.waila.power=%s / %s AE
-
 ae2stuff.waila.wireless.connected=Подключен к %s,%s,%s
 ae2stuff.waila.wireless.notconnected=Нет подключен 
 ae2stuff.waila.wireless.channels=Каналы: %s
 ae2stuff.waila.wireless.power=Используемая мощность: %s AE/t
-
 ae2stuff.gui.lock.on=Заблокированный - Невозможно удалить с помощью автоматизации
 ae2stuff.gui.lock.off=Разблокированный- Можно удалить с помощью автоматизации
 ae2stuff.gui.lock.note=Если процесс не продолжается и средний слот пуст
-
 ae2stuff.gui.recipes=Рецепты
-
 ae2stuff.wireless.tool.empty=Щелкните Беспроводной соединитель для привязки
 ae2stuff.wireless.tool.bound1=Обязанный%s,%s,%s
 ae2stuff.wireless.tool.bound2=Выберите другой беспроводной соединитель для подключения
@@ -31,7 +24,6 @@ ae2stuff.wireless.tool.dimension=Оба разъема должны быть о�
 ae2stuff.wireless.tool.noexist=Связанный разъем не существует
 ae2stuff.wireless.tool.security.network=Нарушение защиты - сети не могут подключиться
 ae2stuff.wireless.tool.security.player=Нарушение безопасности - вам не разрешено изменять эту сеть
-
 ae2stuff.visualiser.bound=Визуализация сети на %s,%s,%s
 ae2stuff.visualiser.mode=Режим:
 ae2stuff.visualiser.set=Режим изменен на %s
@@ -40,5 +32,4 @@ ae2stuff.visualiser.mode.nodes=Показать узлы
 ae2stuff.visualiser.mode.channels=Показать каналы
 ae2stuff.visualiser.mode.nonum=Показать каналы и узлы
 ae2stuff.visualiser.mode.p2p=Show P2P Links
-
 itemGroup.bdew.ae2stuff=AE2 Stuff

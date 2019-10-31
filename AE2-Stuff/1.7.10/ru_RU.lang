@@ -1,44 +1,35 @@
-tile.ae2stuff.Encoder.name=Кодировщик шаблонов
-tile.ae2stuff.Grower.name=Камера для выращивания кристалов tile.ae2stuff.Inscriber.name=Улучшенный высекатель
-tile.ae2stuff.Wireless.name=Беспроводной соединитель
-
-item.ae2stuff.WirelessKit.name=Комплект беспроводной настройки
-item.ae2stuff.Visualiser.name=Инструмент сетевой визуализации
-
-ae2stuff.error.not_connected=Нет соединения с сетью
-
-ae2stuff.waila.sleep.true=Спящий
-ae2stuff.waila.sleep.false=Рабочий
+tile.ae2stuff.Encoder.name=РљРѕРґРёСЂРѕРІС‰РёРє С€Р°Р±Р»РѕРЅРѕРІ
+tile.ae2stuff.Grower.name=РљР°РјРµСЂР° РґР»СЏ РІС‹СЂР°С‰РёРІР°РЅРёСЏ РєСЂРёСЃС‚Р°Р»РѕРІ tile.ae2stuff.Inscriber.name=РЈР»СѓС‡С€РµРЅРЅС‹Р№ РІС‹СЃРµРєР°С‚РµР»СЊ
+tile.ae2stuff.Wireless.name=Р‘РµСЃРїСЂРѕРІРѕРґРЅРѕР№ СЃРѕРµРґРёРЅРёС‚РµР»СЊ
+item.ae2stuff.WirelessKit.name=РљРѕРјРїР»РµРєС‚ Р±РµСЃРїСЂРѕРІРѕРґРЅРѕР№ РЅР°СЃС‚СЂРѕР№РєРё
+item.ae2stuff.Visualiser.name=РРЅСЃС‚СЂСѓРјРµРЅС‚ СЃРµС‚РµРІРѕР№ РІРёР·СѓР°Р»РёР·Р°С†РёРё
+ae2stuff.error.not_connected=РќРµС‚ СЃРѕРµРґРёРЅРµРЅРёСЏ СЃ СЃРµС‚СЊСЋ
+ae2stuff.waila.sleep.true=РЎРїСЏС‰РёР№
+ae2stuff.waila.sleep.false=Р Р°Р±РѕС‡РёР№
 ae2stuff.waila.power=%s / %s AE
-
-ae2stuff.waila.wireless.connected=Подключен к %s,%s,%s
-ae2stuff.waila.wireless.notconnected=Нет подключен 
-ae2stuff.waila.wireless.channels=Каналы: %s
-ae2stuff.waila.wireless.power=Используемая мощность: %s AE/t
-
-ae2stuff.gui.lock.on=Заблокированный - Невозможно удалить с помощью автоматизации
-ae2stuff.gui.lock.off=Разблокированный- Можно удалить с помощью автоматизации
-ae2stuff.gui.lock.note=Если процесс не продолжается и средний слот пуст
-
-ae2stuff.gui.recipes=Рецепты
-
-ae2stuff.wireless.tool.empty=Щелкните Беспроводной соединитель для привязки
-ae2stuff.wireless.tool.bound1=Обязанный%s,%s,%s
-ae2stuff.wireless.tool.bound2=Выберите другой беспроводной соединитель для подключения
-ae2stuff.wireless.tool.connected=Подключение %s,%s,%s
-ae2stuff.wireless.tool.failed=Ошибка подключения
-ae2stuff.wireless.tool.dimension=Оба разъема должны быть одного размера
-ae2stuff.wireless.tool.noexist=Связанный разъем не существует
-ae2stuff.wireless.tool.security.network=Нарушение защиты - сети не могут подключиться
-ae2stuff.wireless.tool.security.player=Нарушение безопасности - вам не разрешено изменять эту сеть
-
-ae2stuff.visualiser.bound=Визуализация сети на %s,%s,%s
-ae2stuff.visualiser.mode=Режим:
-ae2stuff.visualiser.set=Режим изменен на %s
-ae2stuff.visualiser.mode.full=Показать все
-ae2stuff.visualiser.mode.nodes=Показать узлы
-ae2stuff.visualiser.mode.channels=Показать каналы
-ae2stuff.visualiser.mode.nonum=Показать каналы и узлы
+ae2stuff.waila.wireless.connected=РџРѕРґРєР»СЋС‡РµРЅ Рє %s,%s,%s
+ae2stuff.waila.wireless.notconnected=РќРµС‚ РїРѕРґРєР»СЋС‡РµРЅ 
+ae2stuff.waila.wireless.channels=РљР°РЅР°Р»С‹: %s
+ae2stuff.waila.wireless.power=РСЃРїРѕР»СЊР·СѓРµРјР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: %s AE/t
+ae2stuff.gui.lock.on=Р—Р°Р±Р»РѕРєРёСЂРѕРІР°РЅРЅС‹Р№ - РќРµРІРѕР·РјРѕР¶РЅРѕ СѓРґР°Р»РёС‚СЊ СЃ РїРѕРјРѕС‰СЊСЋ Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё
+ae2stuff.gui.lock.off=Р Р°Р·Р±Р»РѕРєРёСЂРѕРІР°РЅРЅС‹Р№- РњРѕР¶РЅРѕ СѓРґР°Р»РёС‚СЊ СЃ РїРѕРјРѕС‰СЊСЋ Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё
+ae2stuff.gui.lock.note=Р•СЃР»Рё РїСЂРѕС†РµСЃСЃ РЅРµ РїСЂРѕРґРѕР»Р¶Р°РµС‚СЃСЏ Рё СЃСЂРµРґРЅРёР№ СЃР»РѕС‚ РїСѓСЃС‚
+ae2stuff.gui.recipes=Р РµС†РµРїС‚С‹
+ae2stuff.wireless.tool.empty=Р©РµР»РєРЅРёС‚Рµ Р‘РµСЃРїСЂРѕРІРѕРґРЅРѕР№ СЃРѕРµРґРёРЅРёС‚РµР»СЊ РґР»СЏ РїСЂРёРІСЏР·РєРё
+ae2stuff.wireless.tool.bound1=РћР±СЏР·Р°РЅРЅС‹Р№%s,%s,%s
+ae2stuff.wireless.tool.bound2=Р’С‹Р±РµСЂРёС‚Рµ РґСЂСѓРіРѕР№ Р±РµСЃРїСЂРѕРІРѕРґРЅРѕР№ СЃРѕРµРґРёРЅРёС‚РµР»СЊ РґР»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ
+ae2stuff.wireless.tool.connected=РџРѕРґРєР»СЋС‡РµРЅРёРµ %s,%s,%s
+ae2stuff.wireless.tool.failed=РћС€РёР±РєР° РїРѕРґРєР»СЋС‡РµРЅРёСЏ
+ae2stuff.wireless.tool.dimension=РћР±Р° СЂР°Р·СЉРµРјР° РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ РѕРґРЅРѕРіРѕ СЂР°Р·РјРµСЂР°
+ae2stuff.wireless.tool.noexist=РЎРІСЏР·Р°РЅРЅС‹Р№ СЂР°Р·СЉРµРј РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚
+ae2stuff.wireless.tool.security.network=РќР°СЂСѓС€РµРЅРёРµ Р·Р°С‰РёС‚С‹ - СЃРµС‚Рё РЅРµ РјРѕРіСѓС‚ РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ
+ae2stuff.wireless.tool.security.player=РќР°СЂСѓС€РµРЅРёРµ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё - РІР°Рј РЅРµ СЂР°Р·СЂРµС€РµРЅРѕ РёР·РјРµРЅСЏС‚СЊ СЌС‚Сѓ СЃРµС‚СЊ
+ae2stuff.visualiser.bound=Р’РёР·СѓР°Р»РёР·Р°С†РёСЏ СЃРµС‚Рё РЅР° %s,%s,%s
+ae2stuff.visualiser.mode=Р РµР¶РёРј:
+ae2stuff.visualiser.set=Р РµР¶РёРј РёР·РјРµРЅРµРЅ РЅР° %s
+ae2stuff.visualiser.mode.full=РџРѕРєР°Р·Р°С‚СЊ РІСЃРµ
+ae2stuff.visualiser.mode.nodes=РџРѕРєР°Р·Р°С‚СЊ СѓР·Р»С‹
+ae2stuff.visualiser.mode.channels=РџРѕРєР°Р·Р°С‚СЊ РєР°РЅР°Р»С‹
+ae2stuff.visualiser.mode.nonum=РџРѕРєР°Р·Р°С‚СЊ РєР°РЅР°Р»С‹ Рё СѓР·Р»С‹
 ae2stuff.visualiser.mode.p2p=Show P2P Links
-
 itemGroup.bdew.ae2stuff=AE2 Stuff
