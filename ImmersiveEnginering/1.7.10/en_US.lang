@@ -403,7 +403,6 @@ chat.ImmersiveEngineering.info.coreDrill.result.none=Горная порода �
 chat.ImmersiveEngineering.info.coreDrill.infinite=Бесконечность
 chat.ImmersiveEngineering.info.pump.placeCobble.true=Эта помпа теперь будет заменять жидкости булыжником.
 chat.ImmersiveEngineering.info.pump.placeCobble.false=Эта помпа больше не будет заменять жидкости булыжником.
-		
 chat.ImmersiveEngineering.info.energyTransfered=Средняя энергия переданная за последние %1$s тик(ов): %2$s RF/t
 chat.ImmersiveEngineering.command.available=§6Доступные команды:§r %1$s
 chat.ImmersiveEngineering.command.help.help=§6Usage: /ie help <command> [sub-commands ...]§r<br> Для того, чтобы получить более подробную информацию по указанной команде или, при необходимости, вложенные команды (sub-commands)
