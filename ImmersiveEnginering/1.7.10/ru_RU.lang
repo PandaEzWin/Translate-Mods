@@ -389,10 +389,10 @@ desc.ImmersiveEngineering.info.toolbox.any=Разное
 
 desc.ImmersiveEngineering.flavour.treatedWood.0=Горизонтальные доски
 desc.ImmersiveEngineering.flavour.treatedWood.1=Вертикальные доски
-desc.ImmersiveEngineering.flavour.treatedWood.2=Пакетные доски
+desc.ImmersiveEngineering.flavour.treatedWood.2=Упакованные доски
 desc.ImmersiveEngineering.flavour.woodenStairs=Горизонтальные доски
 desc.ImmersiveEngineering.flavour.woodenStairs1=Вертикальные доски
-desc.ImmersiveEngineering.flavour.woodenStairs2=Пакетные доски
+desc.ImmersiveEngineering.flavour.woodenStairs2=Упакованные доски
 
 desc.ImmersiveEngineering.flavour.crate=Не потеряет предметы, если сломать!
 desc.ImmersiveEngineering.flavour.barrel=Не потеряет жидкость, если сломать!
