@@ -1,0 +1,13 @@
+tile.Radio.name=Radio
+tile.Speaker.name=Speaker
+tile.DummySpeaker.name=Dummy Speaker
+item.DragonsRadioTuner.name=Dragon's Radio Tuner
+itemGroup.tabRadioMod=Dragon's Radio Mod
+msg.selected_speaker=[Dragon's Radio Mod] Selected Speaker
+msg.added_speaker=[Dragon's Radio Mod] Speaker Added
+msg.failed_adding_speaker_limit=[Dragon's Radio Mod] Could not add speaker. Max 10 allowed!
+msg.failed_adding_speaker_exists=[Dragon's Radio Mod] That speaker is already binded to this radio!
+msg.failed_adding_speaker_unknown=[Dragon's Radio Mod] Could not add speaker. Unknown error!
+msg.not_correct_stream=[Dragon's Radio Mod] Inserted URL for a radio is not in a correct form.
+msg.invalid_link=[Dragon's Radio Mod] URL that was inserted in radio is invalid. Make sure your link refers to mp3 file or mp3 stream that is in m3u or pls format.
+msg.failed_adding_speaker_not_selected=[Dragon's Radio Mod] No speaker selected!
