@@ -1,0 +1,664 @@
+# General
+itemGroup.EvilCraft=EvilCraft
+general.info.enabled=Включено
+general.info.disabled=Выключено
+general.info.empty=Пусто
+general.tooltip.info=<Shift для информации>
+
+
+# Blocks
+tile.blocks.blockBlood.name=Кровь
+tile.blocks.blockPoison.name=Яд
+tile.blocks.bloodChest.name=Кровавый сундук
+tile.blocks.bloodChest.info=Чинит предметы.
+tile.blocks.bloodInfuser.name=Наполнитель кровью
+tile.blocks.darkOre.name=Тёмная руда
+tile.blocks.darkOre.info.custom=Можно найти между %s и %s высотой.
+tile.blocks.darkBlock.name=Тёмный блок
+tile.blocks.bloodStainedBlock.name=Окрашенный кровью блок
+tile.blocks.bloodStainedBlock.info=Создаётся, когда сущность умирает.
+tile.blocks.lightningBomb.name=Бомба молний
+tile.blocks.bloodyCobblestone.name=Кровавый булыжник
+tile.blocks.netherMonsterBlock.name=Яйцо монстра Нижнего мира
+tile.blocks.excrementPile.name=Кучка экскрементов
+tile.blocks.hardenedBlood.name=Затвердевшая кровь
+tile.blocks.hardenedBlood.info=Высушенная кровь. Превращается в жидкость от дождя.
+tile.blocks.obscuredGlass.name=Затемнённое стекло
+tile.blocks.environmentalAccumulator.name=Погодный собиратель
+tile.blocks.environmentalAccumulator.info=Можно найти в тёмных храмах, чаще в горах.
+tile.blocks.undeadLeaves.name=Мёртвая листва
+tile.blocks.undeadLog.name=Мёртвая древесина
+tile.blocks.undeadSapling.name=Мёртвый саженец
+tile.blocks.undeadSapling.info=Наполняет мёртвый куст кровью.
+tile.blocks.undeadPlank.name=Доски из мертвого дерева
+tile.blocks.invisibleRedstoneBlock.name=Невидимый красный блок
+tile.blocks.purifier.name=Очиститель
+tile.blocks.purifier.info=Убирает зачарования
+tile.blocks.darkBrick.name=Тёмный кирпич
+tile.blocks.darkBloodBrick.name=Тёмный кровавый кирпич
+tile.blocks.spiritFurnace.name=Печь духов
+tile.blocks.spiritFurnace.info=Готовит духов мщения, чтобы получить их предметы.
+tile.blocks.spiritFurnace.help.invalid=Нельзя готовить
+tile.blocks.spiritFurnace.help.invalid.noEntity=Пустая или нет коробки
+tile.blocks.spiritFurnace.help.invalid.contentSize=Размер содержимого: %s
+tile.blocks.spiritFurnace.help.invalid.requiredSize=Требуется размер: %s
+tile.blocks.spiritFurnace.help.invalid.forceHalt=Нет места для предметов
+tile.blocks.spiritFurnace.help.invalid.caughtError=Неверный дух моба. Сообщите разработчику(-ам) модификации.
+tile.blocks.boxOfEternalClosure.name=Коробка вечного закрытия
+tile.blocks.boxOfEternalClosure.info.content=Содержит: %s
+tile.blocks.darkTank.name=Тёмный резервуар
+tile.blocks.darkTank.info=Положите в сетку создания рядом с другими резервуарами, чтобы увеличить ёмкость. Shift + ПКМ для авто-подачи.
+tile.blocks.darkTank.info.autoSupply=Авто-подача: %s
+tile.blocks.sanguinaryPedestal.name=Кровавый пьедестал
+tile.blocks.sanguinaryPedestal.info=Поглощает ближайшие блоки, окрашенные кровью.
+tile.blocks.sanguinaryPedestal.boost=Эффективность I
+tile.blocks.spikedPlate.name=Шипованная пластина
+tile.blocks.spikedPlate.info=Убивает мобов, поставьте на пьедестал, чтобы забирать кровь.
+tile.blocks.spiritReanimator.name=Реаниматор духов
+tile.blocks.spiritReanimator.info=Возвращает к жизни духов мщения.
+tile.blocks.spiritReanimator.help.invalid.noEntity=Недоступен, пуст или нет коробки
+tile.blocks.spiritReanimator.help.invalid.invalidEntity=Яйцо призыва не доступно для этого моба
+tile.blocks.spiritReanimator.help.invalid.differentEgg=Уберите разные яйца призыва
+tile.blocks.entangledChalice.name=Кубок запутывания
+tile.blocks.entangledChalice.info=Содержимое кубков запутывания вездесуще.\nShift-ПКМ для вездесущей подачи.
+tile.blocks.entangledChalice.info.autoSupply=Вездесущая подача: %s
+tile.blocks.darkPowerGemBlock.name=Драгоценный блок тёмной энергии
+tile.blocks.gemStoneTorch.name=Факел из драгоценного камня
+tile.blocks.gemStoneTorch.info=Запрещает появление духов мщения в радиусе 15 блоков.
+tile.blocks.eternalWaterBlock.name=Блок вечной воды
+tile.blocks.eternalWaterBlock.info=Бесконечный источник воды.
+tile.blocks.bloodWaxedCoalBlock.name=Блок кровавого угля
+
+
+# Items
+item.items.werewolfBone.name=Кость оборотня
+item.items.werewolfFlesh.name=Плоть оборотня
+item.items.humanFlesh.name=Человеческая плоть
+item.items.lightningGrenade.name=Граната молний
+item.items.redstoneGrenade.name=Красная граната
+item.items.bucketBlood.name=Ведро крови
+item.items.bucketPoison.name=Ведро яда
+item.items.bloodExtractor.name=Экстрактор крови
+item.items.bloodExtractor.info=Shift-ПКМ, чтобы переключить авто-подачу.
+item.items.bloodExtractor.info.autoSupply=Авто-подача: %s
+item.items.darkGem.name=Тёмный драгоценный камень
+item.items.darkStick.name=Тёмная палка
+item.items.weatherContainer.name=Погодный контейнер
+item.items.bloodPearlOfTeleportation.name=Кровавый жемчуг телепортации
+item.items.broom.name=Метла
+item.items.broom.info=Я умею летать!
+item.items.hardenedBloodShard.name=Затвердевший кровавый осколок
+item.items.hardenedBloodShard.info=Используйте огниво на затвердевшей крови.
+item.items.bloodInfusionCore.name=Ядро наполнения кровью
+item.items.darkPowerGem.name=Драгоценный камень тёмной энергии
+item.items.darkPowerGem.info=Бросьте тёмный камень в бассейн с как минимум пятью жидкими блоками крови. Или наполните тёмный камень кровью.
+item.items.bloodContainer.bloodCell.name=Кровавая капсула
+item.items.bloodContainer.bloodCan.name=Кровавая банка
+item.items.bloodContainer.bloodBasin.name=Кровавый резервуар
+item.items.bloodContainer.creativeBloodContainer.name=Творческий кровавый контейнер
+item.items.bloodContainer.info=Shift-ПКМ, чтобы переключить авто-подачу.
+item.items.bloodContainer.info.autoSupply=Авто-подача: %s
+item.items.poisonSac.name=Ядовитый мешочек
+item.items.werewolfFur.name=Мех оборотня
+item.items.blook.name=Кровавая книга
+item.items.blook.info=Наполните книгу кровью.
+item.items.potentiaSphere.name=Сфера силы
+item.items.potentiaSphere.info=Наполните кровью, чтобы сделать жемчуг Края.
+item.items.invertedPotentia.name=Инвертированная сила
+item.items.invertedPotentia.info=Ударьте молнией, чтобы усилить.
+item.items.maceOfDistortion.name=Жезл искажения
+item.items.maceOfDistortion.setPower=Сила установлена на %s
+item.items.maceOfDistortion.info.power=Сила: %s
+item.items.kineticator.name=Кинетикатор
+item.items.kineticator.repelling.name=Отталкивающий кинетикатор
+item.items.kineticator.setPower=Сила установлена на %s
+item.items.kineticator.info=Shift + ПКМ, чтобы переключить притяжение.\nПКМ, чтобы изменить территорию.
+item.items.kineticator.info.attraction=Притяжение: %s
+item.items.kineticator.info.repelling.attraction=Отталкивание: %s
+item.items.kineticator.info.area=Территория: %s
+item.items.vengeanceRing.name=Кольцо мщения
+item.items.vengeanceRing.info=Shift-ПКМ, чтобы переключить.
+item.items.vengeanceRing.info.status=Статус: %s
+item.items.vengeanceFocus.name=Фокус мщения
+item.items.vengeanceFocus.info=ПКМ, чтобы включить луч.
+item.items.vengeancePickaxe.name=Кирка мщения
+item.items.vengeancePickaxe.info=Может призвать духов мщения.
+item.items.burningGemStone.name=Горящий драгоценный камень
+item.items.burningGemStone.info=Преобразует урон духов мщения в голод.
+item.items.darkGemCrushed.name=Измельчённый тёмный драгоценный камень
+item.items.veinSword.name=Жильный меч
+item.items.creativeBloodDrop.name=Творческая капля крови
+item.items.creativeBloodDrop.info=Предмет только для творческого режима, для получения бесконечного количества крови.
+item.items.creativeBloodDrop.info.autoSupply=Авто-подача: %s
+item.items.darkSpike.name=Шип
+item.items.exaltedCrafter.name=Продвинутый верстак
+item.items.exaltedCrafter.wood.name=Деревянный продвинутый верстак
+item.items.necromancerStaff.name=Посох некроманта
+item.items.necromancerStaff.info=Призывает орды зомби.
+item.items.invigoratingPendant.name=Бодрящий кулон
+item.items.invigoratingPendant.info=Убирает отрицательные эффекты зелий.
+item.items.boundBloodDrop.name=Связанная кровавая капля
+item.items.boundBloodDrop.info=ПКМ, чтобы связать с Вашей сетью Blood Magic.
+item.items.boundBloodDrop.info.autoSupply=Авто-подача: %s
+item.items.boundBloodDrop.info.currentOwner=Текущий владелец: %s
+item.items.boundBloodDrop.info.currentOwner.none=Нет
+item.items.resurgenceEgg.name=Яйцо возрождения
+item.items.resurgenceEgg.info.content=Содержит: %s
+item.items.corruptedTear.name=Осквернённая слеза
+item.items.promise.name=Обещание
+item.items.promise.useIn=Может использоваться в:
+item.items.promise.tier1.name=Обещание упорства I
+item.items.promise.tier1.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x2.
+item.items.promise.tier2.name=Обещание упорства II
+item.items.promise.tier2.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x4.
+item.items.promise.tier3.name=Обещание упорства III
+item.items.promise.tier3.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x8.
+item.items.promise.speed0.name=Обещание скорости
+item.items.promise.speed0.info=Скорость механизмов x2
+item.items.promise.efficiency0.name=Обещание эффективности
+item.items.promise.efficiency0.info=Эффективность кровавых механизмов x1.5
+item.items.bowlOfPromises.name=Миска обещаний
+item.items.bowlOfPromises.active.name=Миска обещаний
+item.items.bowlOfPromises.dusted.name=Заполненная миска пустых обещаний
+item.items.bowlOfPromises.empty.name=Миска пустых обещаний
+item.items.bowlOfPromises.strength=Сила
+item.items.dullDust.name=Тусклая пыль
+item.items.dullDust.info=Скучная пыль... или нет?
+item.items.bloodWaxedCoal.name=Кровавый уголь
+item.items.bloodWaxedCoal.info=Удваивает эффективность Вашего угля.
+item.items.enderTear.name=Слеза Края
+item.items.enderTear.info=Редкий предмет странника Края.
+item.items.bloodPotash.name=Кровавый калий
+item.items.bloodPotash.info=Удваивает эффективность Вашей костной муки.
+item.items.bucketEternalWater.name=Ведро вечной воды
+item.items.bucketEternalWater.info=Бесконечный источник воды.
+item.items.promiseAcceptor.name=Акцептор обещаний
+item.items.promiseAcceptor.0.name=Железный акцептор обещаний
+item.items.promiseAcceptor.1.name=Золотой акцептор обещаний
+item.items.promiseAcceptor.2.name=Алмазный акцептор обещаний
+item.items.sceptreOfThunder.name=Скипетр грома
+item.items.sceptreOfThunder.info=Призывает гром при активации, одноразовый.
+item.items.bloodOrb.name=Кровавый шар
+item.items.bloodOrb.empty.name=Пустой шар
+item.items.bloodOrb.filled.name=Кровавый шар
+item.items.effortlessRing.name=Кольцо усилий
+item.items.effortlessRing.info=Будь быстрее и действеннее.
+tile.blocks.colossalBloodChest.name=Огромный кровавый сундук
+tile.blocks.colossalBloodChest.info=Кровавый Сундук промышленных размеров.
+tile.blocks.sanguinaryEnvironmentalAccumulator.name=Проклятый погодный собиратель
+tile.blocks.sanguinaryEnvironmentalAccumulator.info=Создаваемый погодный собиратель.
+tile.blocks.sanguinaryEnvironmentalAccumulator.help.invalid=Готов к работе
+tile.blocks.sanguinaryEnvironmentalAccumulator.help.invalid.invalidLocations=Резервуаров с Кровью требуется:
+tile.blocks.spiritPortal.name=Портал духов
+tile.blocks.reinforcedUndeadPlank.name=Укрепленные доски из мёртвого дерева
+item.items.originsOfDarkness.name=Происхождение Зла
+item.items.originsOfDarkness.info=Получена путём воздействия аномалии на обычную книгу.
+item.items.darkenedApple.name=Очернённое яблоко
+item.items.darkenedApple.info=Я бы не ел, лучше скормил кому-нибудь.
+item.items.condensedBlood.name=Сгущенная кровь
+item.items.condensedBlood.info=Поместите в машину для дополнительной Крови
+item.items.rejuvenatedFlesh.name=Регенерирующая плоть
+item.items.rejuvenatedFlesh.info=Бесконечный источник еды
+item.items.primedPendant.name=Наполняющий кулон
+item.items.primedPendant.info=Применяет выбранное зелье
+item.items.primedPendant.potion=§7Эффект: %s (%s)
+item.items.goldenString.name=Золотая нить
+item.items.environmentalAccumulationCore.name=Ядро погодного собирателя
+item.items.environmentalAccumulationCore.info=Выпадает при уничтожении обычных погодных собирателей
+item.items.maceOfDestruction.name=Булава Разрушения
+item.items.garmonbozia.name=Гармонбоза
+item.items.garmonbozia.info="Боль и печаль"
+item.items.poisonBottle.name=Бутылочка яда
+item.items.veinedScribingTools.name=Жильные инструменты писаря
+item.items.bloodWandCap.name=Кровавое навершие
+item.Wand.blood.cap=Кровь банде
+
+item.powerable.setPower=Установлен уровень силы %s
+item.powerable.info.power=Уровень силы: %s
+item.powerable.info=Shift + ПКМ, чтобы изменить уровень силы.
+
+
+# Fluids
+fluid.fluids.evilcraftblood=Кровь
+fluid.fluids.evilcraftpoison=Яд
+
+
+# Weather container info
+weatherContainer.empty=Пустой
+weatherContainer.clear=Моё единственное солнце
+weatherContainer.rain=Когда дождь начинается
+weatherContainer.lightning=Шторм
+
+
+# Controls
+key.categories.evilcraft=EvilCraft
+key.fart=Переключить
+key.exaltedCrafting=Открыть продвинутый верстак
+
+
+# Entities
+entity.evilcraft.werewolf.name=Оборотень
+entity.evilcraft.poisonousLibelle.name=Ядовитая стрекоза
+entity.evilcraft.netherfish.name=Рыба Нижнего мира
+entity.evilcraft.vengeanceSpirit.name=Дух мщения
+entity.werewolf.name=Оборотень
+entity.poisonousLibelle.name=Ядовитая стрекоза
+entity.netherfish.name=Рыба Нижнего мира
+entity.vengeanceSpirit.name=Дух мщения
+entity.evilcraft.broomEntity.name=Метла
+
+
+# Enchantments
+enchantment.breaking=Разрушение
+enchantment.lifeStealing=Вампиризм
+enchantment.unusing=Непригодность
+enchantment.poisonTip=Ядовитый наконечник
+
+
+# Chat messages
+chat.command.invalidArguments=Неверные аргументы
+chat.command.invalidSubcommand=Неверная подкоманда
+chat.command.onlyOneValue=Пожалуйста, определите одно новое значение
+chat.command.invalidNewValue=Неверное новое значение
+chat.command.updatedValue=Обновлено %s на: %s (не обновлено в конфиге)
+chat.command.fartingEnabled=Пукание включено
+chat.command.fartingDisabled=Пукание отключено
+chat.bossDisplay.charge=Заряжание: %s
+
+
+# Death messages
+death.attack.dieWithoutAnyReason=%1$s умер без всякой видимой причины!
+death.attack.distorted=%1$s не смог справиться с большим количеством искажений.
+
+
+# Biomes
+biomes.biomeDegraded=Деградированный
+
+
+# Achievements
+achievement.evilcraft.fart=Учимся пукать
+achievement.evilcraft.fart.desc=Наконец-то выпустите все эти неприятные газы.
+achievement.evilcraft.firstAge=Первая эпоха
+achievement.evilcraft.firstAge.desc=Откройте для себя истоки первой злой эпохи.
+achievement.evilcraft.secondAge=Вторая эпоха
+achievement.evilcraft.secondAge.desc=Начните вторую злую эпоху.
+achievement.evilcraft.masterDistorter=Мастер-искажатель
+achievement.evilcraft.masterDistorter.desc=Исказите более десяти мобов сразу с помощью жезла искажения.
+achievement.evilcraft.spiritCooker=Моб-повар
+achievement.evilcraft.spiritCooker.desc=Сделайте печь духов.
+achievement.evilcraft.closure=Вечное закрытие
+achievement.evilcraft.closure.desc=Используйте фокус мщения, чтобы запутать духа мщения.
+achievement.evilcraft.tidy=Прибираемся!
+achievement.evilcraft.tidy.desc=Уберите кучку экскрементов метлой.
+achievement.evilcraft.playerDistorter=Игрок-искажатель
+achievement.evilcraft.playerDistorter.desc=Исказите игрока с помощью жезла искажения.
+achievement.evilcraft.playerDevastator=Игрок-разрушитель
+achievement.evilcraft.playerDevastator.desc=Нападите на игрока, используя зомби, призванных с помощью посоха некроманта.
+achievement.evilcraft.powerCrafting=Могущественное создание
+achievement.evilcraft.powerCrafting.desc=Сделайте продвинутый верстак.
+
+
+# Gui
+gui.exaltedCrafting=Exalted Crafting
+gui.waila.tankConfig=Резервуар хранит
+gui.waila.innerBlocksConfig=Actual inner blocks
+gui.waila.boxOfEternalClosureConfig=Коробка Вечного Сдерживания хранит в себе
+gui.waila.blockInfoConfig=Shift-информация
+gui.nei.fluids=Жидкости
+
+
+# ------ Origins of Darkness contents ------
+infoBook.section.main=Происхождение Зла
+infoBook.tagIndex=&oУказатель&r
+
+
+infoBook.preface=Предисловие
+infoBook.preface.text1=Как известно, этот мир хранит множество тайн, скрытых от чужих глаз. Знания о них я собрал в этой книге, будь готов, мои рукописи могут показаться... странными. Я смог открыть ту самую, темную сторону жизни. “&oПолучу ли я в итоге ещё большее зло?&r”, Спросил я себя. “&oЗло таится в каждом углу&r”, Я слышал этот странный голос внутри. Он... Он отвечал мне. И тут, я почувствовал, как тень пронзает мой мозг. Ни глупые жители, ни зомби не способны понять всех таинств своими глупыми умишками.
+infoBook.preface.text2=Этот мир наполнен магией, секреты которой можно получить разными путями. &4Кровь&0, к примеру. Те глупцы, что поклоняются Богу Крови , истязают своё тело для получения &4Крови&0. Я пока не готов к таким тратам. Мне ещё нужны силы… 
+
+
+infoBook.structure=&oСтруктура&r
+infoBook.structure.text1=Я разделил книгу на две большие части. Они представляют собой разные степени того, как я погряз во тьме. Я решил называть то, что существовало задолго до моего прихода в этот мир - &1Первая Эра&0, а работу всей моей жизни - &1Вторая Эра&0.
+infoBook.structure.text2=Ты можешь изучать книгу, кликая по стрелкам. Shift-клик будет пролистывать целые разделы. В начале больших разделов ты увидишь содержание, которое поможет тебе найти необходимую информацию быстрее. Когда ты наткнешься на рецепты, многие предметы будут интерактивными. Надеюсь, ты заметил кнопку, что в левом верхнем углу. Она вернет вас в раздел выше. Кнопка в правом углу вернёт вас к ранее посещенной странице.
+Перевод выполнил: FloppyDi
+
+
+# --- First Age ---
+infoBook.firstAge=Первая Эра
+
+
+# - A Strange New World -
+infoBook.firstAge.newWorld=О Дивный новый мир!
+infoBook.firstAge.newWorld.introduction=Вступление
+infoBook.firstAge.newWorld.introduction.text=Я обнаружил несколько странных свойств в привычных вещах. Все они ранее казались просто жуткими на вид, но теперь, чем больше их было вокруг меня, тем спокойнее я себя чувствовал... Применение многих из них мне было пока не ясно, но некоторые идеи уже начали зреть в моем больном мозгу.
+infoBook.firstAge.newWorld.darkOre=Тёмная Руда
+infoBook.firstAge.newWorld.darkOre.text=Этот мир наполнен различными полезными ископаемыми... Но сегодня я сделал открытие, что в этом мире есть руда с каким-то темным блеском, это заставило меня задуматься о содержании в ней драгоценных камней, но я чувствую присутствие чего-то непонятного внутри них. Похоже, минимальным требованием для получения из руды этих камней является железная кирка. Также, иногда вместе с камнями получается добыть довольно странную темную пыль. Я уверен, что скоро найду ей применение.
+infoBook.firstAge.newWorld.darkenedApple=Очернёное Яблоко
+infoBook.firstAge.newWorld.darkenedApple.text=Если ты читаешь эти строки, значит ты уже держал в руках эт яблоко. Пропитав &1Яблоко&0 тьмой, что хранится в &1Темном Драгоценном Камне&0, ты получил особенное &1Яблоко&0, скорми это яблоко живому существу и жди. Если существо умрёт, часть жизненной энергии создаст пространственную аномалию. Впусти тьму.
+
+
+infoBook.firstAge.newWorld.evilDungeon=Злобные Подземелья
+infoBook.firstAge.newWorld.evilDungeon.text=Бродя по подземельям, можно наткнуться на комнаты залитые &4Кровью&0. Это &4Кровь&0 пролита бесчисленными множествами исследователей, что оставили жизни во тьме.
+
+
+infoBook.firstAge.newWorld.darkTemple=Темные Храмы
+infoBook.firstAge.newWorld.darkTemple.text1=Удивительные структуры, что были построены задолго до начала изучения тьмы. Похоже это было порабощенные Злом люди. Они воздвигали их даже не зная  назначения. К сожалению, почти все они были уничтожены. 
+infoBook.firstAge.newWorld.darkTemple.text2=Используя &1Темный Драгоценный Камень&0 древние нашли способ изменения свойств &1Бутылька&0 для "собирания погоды". Бросая Контейнер на ядро в центре, они могли поглощать саму погоду и запирать её в бутылке.
+infoBook.firstAge.newWorld.darkTemple.text3=Похоже, манипулируя молнией, они всё же смогли обуздать шторм!
+infoBook.firstAge.newWorld.darkTemple.text4=Эти храмы, кажется, испускают какую-то энергию. Может быть, я найду способ отследить ее и найти нетронутые храмы?
+
+
+infoBook.firstAge.newWorld.weatherContainerBenefits=Использование погодного контейнера
+infoBook.firstAge.newWorld.weatherContainerBenefits.text=Погода сдерживается внутри стеклянной тары и готова вырваться при любой возможности. Если разбить бутыль, то погода вырвется.
+
+
+infoBook.firstAge.newWorld.biomeExtract=Насыщение Биомов
+infoBook.firstAge.newWorld.biomeExtract.text1=Весь наш мир состоит из &1Биомов&0, они многообразны и различны. Похоже, что Древние могли сами менять &1Биомы&0, однако, эти знания утеряны и мне приходится собирать из по крупицам.
+infoBook.firstAge.newWorld.biomeExtract.text2=Одной из возможностей &1Погодного собирателя&0 является возможность собирать биомы в специальные бутылочки. Но похоже, с появлением новых школ магии, эти особенности были утрачены.
+infoBook.firstAge.newWorld.biomeExtract.text3=Что же происходит, когда биом заточён в бутылку? Земля наполняется тенью. Земля, растительность, даже живые существа слабеют и деградируют.
+
+
+infoBook.firstAge.newWorld.libelle=Ядовитая стрекоза
+infoBook.firstAge.newWorld.libelle.text=Странное существо. Оно похоже на большую стрекозу. Днём они довольно мирные существа, но подходить близко довольно опасно. Для защиты стрекозы испускают клуб ядовитого газа. Но ночью... Во тьме раскрывается их истинная сущность. Убивая всё на своём пути они мчались за мной. За всё время наблюдения за этими существами мне пришлось убить не одну сотню этих тварей, попутно вырезая из их тел мешочки яда. Как выяснилось, яда одного мешочка достаточно, что бы сделать непригодным целое ведро воды. Получилось сделать это и с картофелем. Кстати, отличная вещь, что бы защитить &mсвоё логово и не дать сбежать оттуда мои пленникам&0 ...эм, дом, да, дом. От посягательств злых монстров. 
+
+
+infoBook.firstAge.newWorld.werewolf=Оборотни
+infoBook.firstAge.newWorld.werewolf.text=Путешествуя по миру я натыкался на множество деревень. В одном из крупных поселений был парень. Что-то странное было в нём. Вскоре, я решил заговорить с ним и был удивлён, его не интересовали изумруды. Он без умолку болтал о жителях этой деревни. Последовали ряд вопросов, которые меня поразили. Он знал о Тёмных Камнях. Мы болтали часами. Так мы обменивались и общались почти весь день. Смеркалось. Когда ночь окутала городок, он переменился в лице и предложил переночевать у него. Однако, я уже снял комнату в гостинице, но поблагодарил за гостеприимство. Уже погружаясь в объятия Морфея, я краем глаза заметил огромную Луну. Зачастую смотрю на Луну перед сном. Знаешь... Успокаивает. В тот день она была полной. Сквозь сон послышался пронзительный крик о помощи. Затем волчий вой. Волк, в деревне? Весь городок припал к окнам и наблюдал как по улице шёл волк на задних лапах. Каждый ежился в страхе, я схватил свой верный кинжал. Просто не мог упустить такой ценный образец. Бой был трудным, а в качестве трофея мне досталась его шерсть... Когда я проснулся на следующее утро, не смог найти моего друга среди торговцев. Похоже он взял выходной. В его доме я заметил множество следов когтей и &4Кровь&0 на полу, до сих пор удивляюсь, что за огромная тварь могла сожрать его... Или он сам эта тварь? По деревушке поползли сплетни... Похоже эта кровь обладает интересными свойствами...
+infoBook.firstAge.newWorld.netherFish=Чешуйница Нижнего Мира
+infoBook.firstAge.newWorld.netherFish.text=Однажды, ломая блок &1Адского Камня&0, что он ломается труднее чем обычно. После разрушения камня, на меня тут же напала мелкая, шустрая тварь. Он пытался меня поджечь, но я отделался лишь парой ожогов, ничего опасного.
+
+
+# - Relics -
+infoBook.firstAge.relics=Реликвии
+
+
+infoBook.firstAge.relics.broom=Метла
+infoBook.firstAge.relics.broom.text=Похоже, некоторые странники оставляли в подземельях &1Метлы&0. На первый взгляд - обычная метла, но швырнув её с горя в стену, не услышал хлопка. Она... Она парит! После практики, я уже мог спокойно отрываться от земли лететь туда, куда мне нужно. Хоть и стоило мне пары ребер, я доволен.
+
+
+infoBook.firstAge.relics.humanoidFlesh=Человеческая Плоть
+infoBook.firstAge.relics.humanoidFlesh.text=После смерти другие маги оставляют после себя плоть. Попробовав кусочек я чуть не умер, голос в моей голове дал дельный совет. Я смог съесть её под покровом ночи. А вообще, я бы не рекомендовал есть себя. Хотя иногда очень хочется откусить кусочек от друга, не так ли?
+
+
+infoBook.firstAge.relics.enchantments=Зачарования
+infoBook.firstAge.relics.enchantments.breaking.text=&l&nРазрушение&r&N Это зачарование имеет 3 уровня. Является полной противоположностью зачарования Прочности. Не самое полезное зачарование, не так ли? Нужно найти способ избавиться от него...
+infoBook.firstAge.relics.enchantments.lifeStealing.text=&l&nВампиризм&r&N Имеет 3 уровня и отбирает часть жизненной силы у соперника и передаёт владельцу оружия.
+infoBook.firstAge.relics.enchantments.poisonTip.text=&l&nЯдовитый Наконечник&r&N При использовании яда на оружие у вас будет шанс отравить свою жертву. Имеет три уровня. Кажется, можно сделать книгу первого уровня самому, просто добавив ядовитый материал на обычную книгу.
+infoBook.firstAge.relics.enchantments.unusing.text=&l&nНепригодность&r&N Я так устал от поломки своих любимых инструментов каждый раз, когда я забываю проследить за их состоянием. Поэтому я разработал новое зачарование, которое сделает инструменты непригодными к использованию, когда они близки к поломке, чтобы я успел вовремя их починить.
+
+
+infoBook.firstAge.relics.garmonbozia=Гармонбозия
+infoBook.firstAge.relics.garmonbozia.text=Странная энергия чувствуется в этом, "боль и страдание" , которые "потребляются" Карликом едящим кукурузное пюре.  Иногда можно найти в сундуках или выкупить у торговцев.  Субстанция довольно редкая, но я нахожу её очень полезной. Может в будущем смогу что-нибудь придумать...
+
+
+# - Items -
+infoBook.firstAge.items=Предметы
+
+
+infoBook.firstAge.items.darkTank=Тёмный Резервуар
+infoBook.firstAge.items.darkTank.text1=Исользуя немного &1Железа&0, &1Темные Драгоценные Камни&0 и чуть-чуть &1Стекла&0, стало возможно создать резервуар, что жидкости хранить в себе способен. "&oТьма довольна полезна в хозяйстве&r"
+infoBook.firstAge.items.darkTank.text2=Когда Резервуар размещён в мире, ты можешь использовать ПКМ на нём. Он окрасится в фиолетовый и откроется отверстие в днище. Таким образом, начнёт заполнять контейнеры под собой.
+infoBook.firstAge.items.darkTank.text3=Shift + ПКМ с контейнером в руках не ставя его, включить специальный режим. Он автоматически будет наполнять другие контейнеры той жидкостью, что храниться в нём. Очень удобно, знаешь ли
+infoBook.firstAge.items.darkTank.text4=Ну, поместить в него можно вёдер 16. "&oТы же сам рисовал засечки!&r" Но хранилище можно расширить, просто соединив их вместе на верстаке.
+
+
+infoBook.firstAge.items.darkSpike=Шип
+infoBook.firstAge.items.darkSpike.text=Заточив &1Тёмным Драгоценным Камнем&0 кусочек &1Железа&0, я смог получить очень острый и прочный &1Шип&0. Монстрам в округе кажется это очень не понравится...
+
+
+infoBook.firstAge.items.spikedPlate=Шипованная Пластина
+infoBook.firstAge.items.spikedPlate.text1=Немного &1Шипов&0 на &1Плите&0 и-и-и получаем отличный придверный коврик. Монстры и животные, что проходят по этим плитам, получают урон. Мощь &1Тёмных Драгоценных Камней&0 позволяет получать с убитых предметы так, будто их убиваю я сам.
+
+
+infoBook.firstAge.items.spikedPlate.text2=Ах да, это до сих пор нажимная плита, потому она выдаёт сигнал, когда существо получает урон. "&oНемного поразмыслив, присоединил туда нотный блок и теперь наслаждаюсь мелодией страха и агонии&r"
+
+
+infoBook.firstAge.items.potentiaSphere=Сфера Силы
+infoBook.firstAge.items.potentiaSphere.text=R=Комбинирование нескольких блестящих элементов позволяет обточить их и создать сферу, что содержит в себе силу. Осталось найти для неё применение. Как обычно, добавив к чему-то странному ещё и &1Тёмный Драгоценный Камень&0 можно изменить его свойства.
+
+
+infoBook.firstAge.items.dullDust=Тусклая Пыль
+infoBook.firstAge.items.dullDust.text=Засыпав &1Сахар&0 в одну тару с &1Порохом&0 получил странную Пыль."&oМда, чаёк мне теперь не светит&r"
+
+
+infoBook.firstAge.items.obscuredGlass=Затемнённое Стекло
+infoBook.firstAge.items.obscuredGlass.text=Ох, для некоторых обычное &1Стекло&0 слишком яркое. А вот если затемнить его &1Тёмным Драгоценным Камнем&0, то никакой свет не проникнет в моё убежище тьмы. Но я всё ещё вижу сквозь него, это странно...
+
+
+infoBook.firstAge.items.exaltedCrafter=Продвинутый Верстак
+infoBook.firstAge.items.exaltedCrafter.text1=Как же мне надоело носиться от Сундуков к Верстаку. Кажется &1Измельчённого Тёмного Драгоценного Камня&0 будет достаточно для сдерживания предметов внутри! После объединения имеет небольшой инвентарь и немного похож на &1Сундук Края&0. Опытные маги будут рады узнать о работе Верстака с горячими клавишами. Используя ту же кнопку с открытым инвентарём, ты очистишь инвентарь, а также используя с SHIFT распределить предмет по сетке верстака. Также существует переключатель, который позволяет выбрать откуда верстак будет брать предметы для создания(инвентарь игрока/внутренний инвентарь).
+infoBook.firstAge.items.exaltedCrafter.text2=После того, как меня ударило молния, я вернулся на место своей очередной смерти и обнаружил, что верстак получил новые свойства. Похоже, что теперь он находится в нескольких реальностях, а значит, не может быть уничтожен полностью.
+
+
+# - Items -
+infoBook.firstAge.vengeanceSpirits=Мстительный Дух
+
+
+infoBook.firstAge.vengeanceSpirits.introduction=За чертой смерти
+infoBook.firstAge.vengeanceSpirits.introduction.text1=Людишки находят меня странным, но я вижу их! Вижу эти пурпурные эфирные тела, что бродят среди нас. Иногда исчезают и появляются вновь &nSo Spooky&r
+infoBook.firstAge.vengeanceSpirits.introduction.text2=Я заметил как они реагируют на пыль &1Измельчённого Тёмного Драгоценного Камня&0. Получилось сделать кольцо, надев которое, я могу видеть их отчётливее. Похоже и я теперь виден для них! Они пытаюсь на меня напасть, а когда наносят небольшое увечье, растворяются в воздухе.
+infoBook.firstAge.vengeanceSpirits.introduction.text3=Активация кольца даёт мне новые силы, но духи начинают атаковать меня, некоторые духи настолько древние, что даже не помнят кто они. &nМожет свою бабушку найдёшь!&r
+
+
+infoBook.firstAge.vengeanceSpirits.catchingSpirits=Охота на Духов
+infoBook.firstAge.vengeanceSpirits.catchingSpirits.text1=Во времена моих путешествий, я находил фиолетовые коробки с духами внутри. Они, похоже, давно заточены в них. Забыли сами себя. Должен быть способ помочь им.
+infoBook.firstAge.vengeanceSpirits.catchingSpirits.text2=Я смог разобраться в механизме этих коробок и сделать сам идентичные. Попутно я обнаружил способ борьбы с ними, теперь понятно как их помещали в их темницы. Я улучшил &1Кольцо Мщения&0 и получил &1Фокус Мщения&0. Теперь, воздействуя на них, я могу с легкость отправить в темницу. Только вот... зачем мне они...
+
+
+infoBook.firstAge.vengeanceSpirits.spiritProtection=Защита от Духов
+infoBook.firstAge.vengeanceSpirits.spiritProtection.text=С этими назойливыми призраками нужно быть осторожнее. Я заметил, что эти духи избегают &1Тёмного Драгоценного Камня&0, но они не игнорируют вас. Похоже, аура &1Темного Драгоценного Камня&0 Ослабила их. Теперь они лишь касаются меня. И что-то хочется есть. Безумно.
+
+
+# --- Second Age ---
+infoBook.secondAge=Вторая Эра
+
+
+# - Powers of Blood -
+infoBook.secondAge.powersOfBlood=Сила в Крови
+infoBook.secondAge.powersOfBlood.text1=Все знают что &4Кровь&0 - один из составляющих элементов всего живого. Объединяя магические свойства &1Темного Драгоценного Камня&0 и &4Крови&0 мне открываются невероятные знания о полезных инструментах и диковинных машинах. Некоторые из моих знакомых Магов Крови считают, что их ритуалы - единственный способ использования крови. Они слишком узко мыслят
+infoBook.secondAge.powersOfBlood.text2=&1Темный Драгоценный Камень&0 активно поглощают &4Кровь&0. Отправив один из них в бассейн с &4Кровью&0, я получил &1Драгоценный камень тёмной энергии&0. Нужно как минимум 5 вёдер &4Крови&0, Я должен сделать это, чтобы найти иные пути его получения.
+infoBook.secondAge.powersOfBlood.text3=Как известно, &4Кровь&0 будет высыхать и сворачиваться спустя время. Используя &1Зажигалку&0 на &1Затвердевшую кровь&0 даст несколько &1Затвердевших кровавых осколков&0 осмотрю их позже. Похоже их можно получить при создании &1Затвердевшей крови&0, может её немного… размягчить?
+infoBook.secondAge.powersOfBlood.text4=&1Густую кровь&0 Можно встретить редко. Она может скапливаться в устройствах, работающих на &4Крови&0. Пол ведра крови специально для вас
+
+
+# - Blood Infusion -
+infoBook.secondAge.bloodInfusion=Насыщение Кровью
+
+
+infoBook.secondAge.bloodInfusion.bloodInfusionCore=Ядро наполнения кровью
+infoBook.secondAge.bloodInfusion.bloodInfusionCore.text=Это основа манипуляции &4Кровью&0. Обычные предметы могут быть пропитаны &4Кровью&0 для получения очень интересных свойств. Потенциал бесконечен!
+
+
+infoBook.secondAge.bloodInfusion.bloodExtraction=Добыча Крови
+infoBook.secondAge.bloodInfusion.bloodExtraction.text1=Используя &1Шипы&0, я открыл интересный способ получения &4Крови&0 из живых существа. При убийстве разных тварей, я получаю &4Кровь&0, которая помещается в хранилище, что в моём инвентаре. Иногда можно найти &4Кровь&0 прямо на земле, Shift + ПКМ соберёт &4Кровь&0 в экстрактор. Похоже эта&4Кровь&0 от бедняг, которые разбиваются насмерть. Однажды может пригодиться...
+infoBook.secondAge.bloodInfusion.bloodExtraction.text2=ПКМ поместит одно ведро &4Крови&0 на землю.
+infoBook.secondAge.bloodInfusion.bloodExtraction.text3=Пока это единственный способ получения.
+infoBook.secondAge.bloodInfusion.bloodExtraction.text4=Изначально экстрактор имеет небольшой резервуар, но если объединить &1Экстракторы крови&0, я получу больший объем. &1Темные Резервуары&0 увеличат вместительность тоже.
+
+
+infoBook.secondAge.bloodInfusion.bloodChest=Кровавый Сундук
+infoBook.secondAge.bloodInfusion.bloodChest.text=Мой первый предмет пропитанный &4Кровью&0 был сундук, предметы внутри которого просто плавали в крови. Этот процесс медленно восстанавливает предметы. Однако это имеет и негативный эффект, на предмет может наложиться зачарования, например &1Разрушение&0. Я должен постараться найти способ очищать предметы от негативных зачарований..
+
+
+infoBook.secondAge.bloodInfusion.bloodInfuser=Наполнитель Кровью
+infoBook.secondAge.bloodInfusion.bloodInfuser.text1=После починки предметов, я был уверен, что смогу найти способ использовать это. Некоторые предметы могут принимать &4Кровь&0, как &1Темный Резервуар&0. Я думаю, я могу наполнить его &4Кровью&0, когда помещу в машину. У некоторых предметов после наполнения &4Кровью&0 открываются новые свойства. Сигнал красного камня может остановить процесс.
+infoBook.secondAge.bloodInfusion.bloodInfuser.text2=Это машина может даже создать &1Драгоценный камень тёмной энергии&0, что довольно дешево. 
+
+
+infoBook.secondAge.bloodInfusion.undeadTree=Почти живое Древо
+infoBook.secondAge.bloodInfusion.undeadTree.text1=Похоже, это способ реанимировать мёртвый куст. Дерево, что вырастает из него примечательно, мягко говоря. Они сочатся кровью, довольно жутко, если честно. Соединив это дерево с Темным Драгоценным Камнем, я получил интересный результат. Может потом пригодится..
+infoBook.secondAge.bloodInfusion.undeadTree.text2=&oIОн растёт в пустыне?&r
+infoBook.secondAge.bloodInfusion.undeadTree.text3=Если выбросить палки, получаемые с этого дерева, они все поворачиваются в одну сторону. Указывают на что-то?
+
+
+infoBook.secondAge.bloodInfusion.advancedBloodInfusion=Продвинутое Наполнение Кровью
+infoBook.secondAge.bloodInfusion.advancedBloodInfusion.text1=После моих первых опытов с &1Наполнением Кровью&0, я начал рассуждать об оптимизации и повышении эффективности процессов. Используя &1Измельчёный Драгоценый Камень&0 я нашёл способ материализовать &1Обещания&0 которые &1Наполнитель Кровью&, уже боюсь представить что ешё может выкинуть эта машина...
+infoBook.secondAge.bloodInfusion.advancedBloodInfusion.text2=Заполнив &1Чашу пустых обещаний&0 фиолетовым порошком и наполнив &4Кровью&0 в результате получил &1Чашу Обещаний&0 определённой прочности. Сочетание реагент и кристаллами обещаний требует значительные объёмы &4Крови&0, в результате &1Обещание&0 получается определённого типа. &1Обещание упорства&0 может быть создано из органики, это позволит машине содержать больше &1Обещаний&0 и &4Кровь&0 в себе. &1Обещание скорости&0 увеличивает скорость работы машины, &Обещание эффективности&0 уменьшить количество &4Крови&0 требуемое для процессов.
+
+
+infoBook.secondAge.bloodInfusion.advancedBloodInfusionRecipes=Больше Рецептов Наполнения
+infoBook.secondAge.bloodInfusion.advancedBloodInfusionRecipes.text=Из-за новых &1Обещаний упорства&0, я чувствую, что стою на пороге открытий..
+
+
+# - Evolved Blood Machinery -
+infoBook.secondAge.evolvedBloodMachinery=Продвинутые Кровавые Машины
+
+
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryPedestal=Кровавый пьедестал
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryPedestal.text1=Я уже устал толкать свиней со скал и соскребать жалкие частицы их &4Крови&0, поэтому возникла необходимость двигаться дальше, извлекать &4Кровь&0 из соседних блоков и передавать в ближайшее резервуары. &1Тёмный драгоценный камень&0, увеличивает эффективность получения &4Крови&0.
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryPedestal.text2=Разместив &1Шипованую пластину&0 сверху можно направлять &4Кровь&0 существ, что умирают сверху прямо в резервуар.
+
+
+infoBook.secondAge.evolvedBloodMachinery.purifier=Очиститель
+infoBook.secondAge.evolvedBloodMachinery.purifier.text1=После побочных эффектов &1Кровавого сундука&0, возникла необходимость создать машину, которая сможет избавить меня от них. Просто поместив инструмент с одним ведром &4Крови&0 снимет эффект.
+infoBook.secondAge.evolvedBloodMachinery.purifier.text2=Машина имеет очень интересный эффект когда заполнена &4Кровью&0 до краёв. Если положить в неё помимо предмета с зачарованиями &1Кровавую книгу&0 (обычная &1Book&0 пропитанная &1Кровью&0), поместит зачарования на эту книгу, по цене трёх &Вёдер крови&0.
+infoBook.secondAge.evolvedBloodMachinery.purifier.text3=В последнее время, я стал замечать новые свойства этого корыта, можно удалить &1Эффект Отравления&0 с живых существ внутри него, заполняя полностью &1Очиститель&0 &4Кровь&0 и помещая туда &1Пузырёк&0. Через несколько секунд эффект будет заключён в бутылке.
+
+
+infoBook.secondAge.evolvedBloodMachinery.entangledChalice=Кубок запутывания
+infoBook.secondAge.evolvedBloodMachinery.entangledChalice.text1=Когда вы столь хороши как и я, у вас появляются идеи по упрощению привычных вещей. Вот только носить &4Кровь&0 вёдрами не столько удобно, а вот если усилить действие слезы &1Гаста&0, то можно получить очень интересный эффект. Две части сохраняют связь, если разделить их пополам. Это дало мне отличную идею для создания &1Кубка запутывания&0 со слезой. Отличный способ передачи жидкости от одной чаши ко всем другим, что связаны с ней тем же разрывом.
+infoBook.secondAge.evolvedBloodMachinery.entangledChalice.text2=Обычно, получается две чаши при создании и они уже связаны, но если заменить центральный &4Золотой слиток&0 в рецепте, на уже готовый кубок, он соединится с общей сетью.
+infoBook.secondAge.evolvedBloodMachinery.entangledChalice.text3=Эти чаши могут быть размещены в мире или находится в инвентаре. Shift + ПКМ с кубком в руке включит Омни-подачу и чаша начнет заполнять все резервуары в вашем инвентаре &4Кровью&0.
+
+
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest=Огромный кровавый сундук
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest.text1=&1Кровавый Сундук&0 - крутая вещь, закинул туда предмет, а потом забрал как новенькие. Только вот негативный эффект иной раз заставляет грустить, но и это легко решить &1Очистителем&0.
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest.text2=На этом недостатки не заканчиваются. &1Кровавый Сундук&0 имеет маленький инвентарь, медленный, да и крови влезает немного. Хуже всего, мои &1Обещания&0 не могут ускорить эту машину!
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest.text3=Именно поэтому тебе у меня есть &1Огромный кровавый сундук&0! Это решает большинство вышеупомянутых проблем. Что логично, он немного больше обычного варианта. Только вот обычное дерево не сможет сдержать такую силу.
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest.text4=Этот &1Огромный кровавый сундук&0 нужно использовать когда у вас много предметов требующих починки. Причина в &4Крови&0, она используется немного иначе, нежели в &1Кровавом Сундуке&0. Чем больше предметов чинится одновременно, тем эффективнее используется &4Кровь&0.
+infoBook.secondAge.evolvedBloodMachinery.colossalBloodChest.text5=Для постройки нужна &1пустая внутри&0 3x3x3 структура из специального материала. Для окончательного формирования структуры, тебе нужно поставить &1Огромный кровавый сундук&0 где-нибудь в стене структуры, кроме центра, разумеется.
+
+
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryEnvironmentalAccumulator=Природная Аккумуляция
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryEnvironmentalAccumulator.text1=За всё время странствий я так и не нашёл ни одного Храма, должно быть боги уничтожили их!
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryEnvironmentalAccumulator.text2=Если верить письменам, ранее люди могли приручать погоду и а проводить определённые ритуалы в Тёмных Храмах
+infoBook.secondAge.evolvedBloodMachinery.sanguinaryEnvironmentalAccumulator.text3=Увы, никакой информации об этом я больше найти не смог
+
+
+# - Tools -
+infoBook.secondAge.tools=Инструменты
+
+
+infoBook.secondAge.tools.introduction=Вступление
+infoBook.secondAge.tools.introduction.text=Предметы использующие &4Кровь&0 зачастую имеют ёмкость для этой самой &4Крови&0 могут быть наполнены &1Наполнителем Крови&0 Или другими предметами, которые могут отдавать &4Кровь&0 . Каждое использование поглощает часть &4Крови&0 . Когда &4Кровь&0 закончится в самом предмете, он начнёт потреблять &4Кровь&0 из иных источников в вашем инвентаре.
+
+
+infoBook.secondAge.tools.bloodPearlOfTeleportation=Кровавый жемчуг телепортации
+infoBook.secondAge.tools.bloodPearlOfTeleportation.text=Обычный &1Жемчуг Эндера&0 довольно забавная вещь, но неоправданно дорого использовать её для этого. Но вот если пару раз макнуть его в &4Кровь&0, я получил &1Жемчуг Эндера&0 с интересными свойствами. Он будет потреблять &4Кровь&0 за использование. Он конечно круче обычного &1Жемчуга Эндера&0, но стоит ли того?
+
+
+infoBook.secondAge.tools.invigoratingPendant=Бодрящий кулон
+infoBook.secondAge.tools.invigoratingPendant.text=Избавление от негативных эффектов зелий может быть довольно болезненно. Этот кулон способен очистить эти эффекты, но затратив на это &4Кровь&0. Чем сильнее и негативнее эффект, тем больше нужно &4Крови&0. Даже может потушить огонь, кажется. Но я бы всё же не рекомендовал бы устраивать заплывы в лаве. Для его создания нужна специальная нить, которую можно получить лишь объединив обычную нить с золотом.
+
+
+infoBook.secondAge.tools.primedPendant=Заполненный кулон
+infoBook.secondAge.tools.primedPendant.text=После создания &1Бодрящего кулона&0, я стал размышлять. Что, если кулон может не только снимать эффекты, но и накладывать их? Этот кулон способен хранить в себе одно &1Зелье&0 использовать &4Кровь&0 для поддерживания эффекта на тебе. Я подметил, некоторые эффекты требуют &4Крови&0 больше других. Ты можешь вставить новое &1Зелье&0 нажав ПКМ с предметом.
+
+
+infoBook.secondAge.tools.effortlessRing=Кольцо усилий
+infoBook.secondAge.tools.effortlessRing.text=Я смог создать кольцо, что совмещает в себе &1Обещания&0 &1Эффективности&0 и &1Скорости&0 я чувствую себя с ним свободнее, бегаю быстрее, прыгаю выше и всё в таком духе. Нужно лишь одеть его и я просто переполняюсь прытью. Стоит отметить, что если зажать &oShift&r, я не буду подниматься на блок выше.
+
+
+infoBook.secondAge.tools.kineticator=Кинектатор
+infoBook.secondAge.tools.kineticator.text1=Этот предмет позволяет притягивать к себе предметы и опыт в определенной зоне. Зону можно изменить используя ПКМ, выключить и включить shift + ПКМ. Чем дальше предмет, тем больше требуется &4Крови&0 на операцию. &oShift&r позволит избежать притягивания предметов.
+infoBook.secondAge.tools.kineticator.text2=Если использовать обратный рецепт, то и эффект получаемого предмета будет обратный, сможет отталкивать предметы и опыт.
+
+
+infoBook.secondAge.tools.sceptreOfThunder=Скипетр Грома
+infoBook.secondAge.tools.sceptreOfThunder.text=Гром и молнии отлично дополняют мрачный образ моего логова. Именно поэтому на досуге я смастерил эту вещицу. Можно использовать всего раз, что получается слишком дорого.
+
+
+infoBook.secondAge.tools.vengeancePickaxe=Кирка Мщения
+infoBook.secondAge.tools.vengeancePickaxe.text=После некоторых манипуляций получилось применить механику  &1Кольца Мщения&0 к кирке. В попытках отомстить мне, кирка сильно потеряла в прочности, но это достойная плата за такую &1Удачу&0.
+
+
+infoBook.secondAge.tools.gemstoneTorch=Факел из драгоценного камня
+infoBook.secondAge.tools.gemstoneTorch.text=Наконец-то нашёл применение &1Тёмный Палке&0! Эта вещь абсорбирует действие зла и не даёт появляться &1Духам Мщения&0 в определенной зоне. Хотя полность оградить меня от духов не получается.
+
+
+infoBook.secondAge.tools.rejuvenatedFlesh=Странная плоть
+infoBook.secondAge.tools.rejuvenatedFlesh.text=&Плоть&0 можно соеденить с &1Гармонбозией&0 и получить отличный источник пищи. Только его нужно пропитывать &4Кровью&0.
+
+
+# - Weapons -
+infoBook.secondAge.weapons=Орудия
+
+
+infoBook.secondAge.weapons.veinSword=Жильный меч
+infoBook.secondAge.weapons.veinSword.text=Вступаете в ближний бой на полях сражений и нет времени контролировать &4Кровь&0? Почему бы не помещать &4Кровь&0 сразу в &1Экстрактор&0 после убийства? А как бонус ещё и обдирать их до нитки.
+
+
+infoBook.secondAge.weapons.maceOfDistortion=Жезл искажения
+infoBook.secondAge.weapons.maceOfDistortion.text=Удерживая ПКМ с этим жезлом в руках создаст некоторую сферу, которая будет реагировать на различные сущности отталкивать их, потребляя &4Кровь&0. Shift + ПКМ увеличит мощность, что повлияет на радиус урон, но будет потреблять больше &4Крови&0.
+
+
+infoBook.secondAge.weapons.necromancerStaff=Посох некроманта
+infoBook.secondAge.weapons.necromancerStaff.text=&1Армия Зомби&0 именно то о чём я мечтал! Моя личная, Армия Зомби!. Мои войска будут атаковать соперников и исчезать через некоторое время. 
+
+
+infoBook.secondAge.weapons.maceOfDestruction=Жезл Разрушения
+infoBook.secondAge.weapons.maceOfDestruction.text=Вариант &1Жезла искажения&0, только вызывать взрывы и разрушения! Чем дольше я заряжаю жезл, тем больше будет взрыв!. Увеличение заряда, увеличивает мощность взрыва.
+
+
+# - Abusing Spirits -
+infoBook.secondAge.abusingSpirits=Использование Духов
+
+
+infoBook.secondAge.abusingSpirits.infusingSpirits=Насыщение Духов
+infoBook.secondAge.abusingSpirits.infusingSpirits.text=Содержание &1Духов Мщения&0 в коробке может быть довольно полезным. Я предположил, что &4Кровь&0 сможет мне помочь в этом. Как обычно...
+
+
+infoBook.secondAge.abusingSpirits.spiritFurnace=Печь Духов
+infoBook.secondAge.abusingSpirits.spiritFurnace.text1=Наконец я нашёл применение &1Духам Мщения&0, ну, мне так кажется. Возрожденные духи слишком слабы и нестабильны, чтобы присутствовать в нашем мире, но при этом они имеют такие-же характеристики оригиналов. В моём больном мозгу родилась идея огромной машины, которая будет материализовать духа используя &4Кровь&0, только вот изъять его оттуда нельзя, но вот убить его и получить всё его добро вполне. Как результат, я получаю полезный дроп прямо в машине. Однако, &1Коробка вечного закрытия&0 может использовать духа повторно.
+infoBook.secondAge.abusingSpirits.spiritFurnace.text2=Мне потребовалось приложить немало усилий,  &1Тёмный Кирпич&0 пропитать &4Кровью&0 чтобы убедиться в том, что духи не смогут сбежать. Нужно построить пустой куб, при этом учитывать размер реального существа. Бедный зомби, к примеру, не влезет в один блок, а значит структура для него должна быть как минимум 3х4. Чем больше существо - тем больше должна быть структура.
+infoBook.secondAge.abusingSpirits.spiritFurnace.text3=Нужно заменить один из блоков на &1Печь Духов&0, чтобы завершить структуру. Этот блок встанет как влитой, а структура начнёт светиться, обозначая готовность к работе.
+
+
+infoBook.secondAge.abusingSpirits.spiritReanimator=Реаниматор Духов
+infoBook.secondAge.abusingSpirits.spiritReanimator.text1=После открытия &1Печи Духов&0, меня не отпускала мысль о материализации существ. Смогу ли я стабилизировать духа, если привести его к первозданному виду, к &1Яйцу&0. Это процесс требует большое количество &4Крови&0 и обычное &1Яйцо&0.
+infoBook.secondAge.abusingSpirits.spiritReanimator.text2=Этот процесс очень сложный, а потому полностью абсорбирует духа, только одно &1Яйцо&0 может быть получено из одного &1Духа&0.
+infoBook.secondAge.abusingSpirits.spiritReanimator.text3=Некоторые существа слишком  сложны для помещения в &1Яйцо&0, такие духи потеряны навсегда.
+
+
+# --- Mod Integrations ---
+infoBook.modIntegrations=&oИнтеграция с модами&r
+
+
+infoBook.modIntegrations.baubles=Baubles
+infoBook.modIntegrations.baubles.text=Мод добавляет аксессуары и удобный инвентарь для их ношения. Но они продолжают работать даже когда просто лежат в инвентаре. Бирюльки для всех!
+
+
+infoBook.modIntegrations.bloodMagic=Blood Magic
+infoBook.modIntegrations.bloodMagic.text=Однажды я обнаружил &1Кровавый шар&0, который принадлежал какому-то &1Магу&0. Взяв его в руку, я тут же почувствовал связь с этим предметом. После обнаружил его связь с моими запасами &4Крови&0. А если направить &4Кровь&0 с помощью &1Наполнителя Крови&0, я смог соединить свою &4Кровь&0 с резервуарами. Какое шарлатанство!
+
+
+infoBook.modIntegrations.ee3=Equivalent Exchange 3
+infoBook.modIntegrations.ee3.text=По представлениям некоторым магов, всё в этом мире можно свести к одной &1цене&0. Эти люди используют акт &1трансмутации&0 для превращения одних предметов в другие
+
+
+infoBook.modIntegrations.forestry=Forestry
+infoBook.modIntegrations.forestry.text=Смотрю я на некоторых людей, что бегают за пчёлками с цветочками и понимаю какое это своеобразное занятие, явно не моё.  Да и вообще у меня аллергия на пыльцу! Однако их &1Соковыжималка&0 позволяет выжимать &4Кровь&0 из &1Мёртвого Дерева&0, которые, кстати, можно выращивать с помощью их ферм.
+
+
+infoBook.modIntegrations.ic2=IndustrialCraft 2
+infoBook.modIntegrations.ic2.text=Есть одна странная группа людей, которые очень любят скрежет и гул машин. Другое дело крики заключенных. &1Дробитель&0 может увеличить выход руд и измельчить &1Темный Драгоценный Камень&0 в крошку.
+
+
+infoBook.modIntegrations.nei=Not Enough Items
+infoBook.modIntegrations.nei.text=Все эти люди кричат "&oнеи, неи&r"! но только мы, истинные маги понимаем, что правильно "&oЭн И АЙ&r"! Но как бы ты её не назвал, вещь отличная...
+
+
+infoBook.modIntegrations.thermalExpansion=Thermal Expansion
+infoBook.modIntegrations.thermalExpansion.text=Видите людей в странных костюмах и с гаечными ключами на перевес, знайте, это жуткие инженеры. Я знаю только одну у них вещь, которую могу назвать полезной - штука, которая транспортирует жидкости.
+
+
+infoBook.modIntegrations.thaumcraft=Thaumcraft
+infoBook.modIntegrations.thaumcraft.text=Я заметил, что Тамуматургия - магия, которая очень не похожа на мою. Похоже Тауматурги с удовольствием обойдут все мои покои, везде тычут своими странными шестиугольниками. Я сделал для них специальные &1Инструменты Писаря&0 которые использую &4Кровь&0 вместо чернил. А ещё, золото очень любит кровь нужно будет поместить наконечник в &1Напольнитель Кровью&0. Авось что и выйдет.
+
+
+infoBook.modIntegrations.tinkersConstruct=Tinkers' Construct
+infoBook.modIntegrations.tinkersConstruct.text=&0Инструменты, инструменты, инструментики!&r &1Кровавый Сундук&0 чинит их!
+
+
+infoBook.modIntegrations.waila=WAILA
+infoBook.modIntegrations.waila.text=Ты действительно не знаешь что это? Ты вообще отсюда!?
